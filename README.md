@@ -11,8 +11,10 @@ Here is my project portfolio embedded in the resume.
 - Computation Core for Portfolio Risk Model. Software Development / Desktop App / Backend. VisualBasic.NET
 - Computation Core for Portfolio Risk Model. Software Development / Console App / Backend. R.
 - Pooling Management. Software Development / Web App / Full Stack. Java, HTML, SQL, SQL Server.
+- CUSUM Control Charts for Monitoring Optimal Portfolio Weights. Model and Software Development / Console App / Backend. C
 - ETL Tool for P&L Attribution Reporting. Software Development / Desktop App / Full Stack. VBA, Access.
 - Backtesting of Counterparty Credit Risk Model. Software Development / Web App / Backend. Java.
+
 
 &nbsp;  
 ## 🛠 Work Experience
@@ -52,6 +54,10 @@ Here is my project portfolio embedded in the resume.
 - SQL Server: Query Basics & Advances, Sarpedon Quality Lab, Berlin
 
 &nbsp;
+## Publications
+- [CUSUM Control Charts for Monitoring Optimal Portfolio Weights](https://www.sciencedirect.com/science/article/abs/pii/S0167947311001708). Computational Statistics and Data Analysis.
+- [On the Application of Statistical Process Control in Finance](https://link.springer.com/chapter/10.1007/978-3-7908-2380-6_8). Frontiers in Statistical Process Control
+- [Multivariate CUSUM Chart: Properties and Enhancements](https://link.springer.com/article/10.1007/s10182-009-0107-4). AStA Advances in Statistical Analysis.
 
 <!--
 **grey2018/grey2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
