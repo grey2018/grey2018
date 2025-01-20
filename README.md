@@ -32,7 +32,8 @@ Here is my project portfolio embedded in the resume.
 - Machine Learning with Python, MIT via edX
 - Foundations of Data Science, UC Berkeley via edX
 - Python Data Science, IBM via edX
-- CS50 Intro to Computer Science, Harvard via edX
+- CS50 Intro to Computer Science, Harvard via edX <br/>
+    - Travel Manager [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU)
 - PMI Project Management, Frankfurt School of Finance & Management
 - SAS Advances, msgGillardon, Munich
 - SAS Risk Dimensions, SAS Institute, Munich
