@@ -7,7 +7,8 @@ Here is my resume with project portfolio.
 ## ⭐ Project Highlights
 - Behavioural Model for Committed Credit Lines. Model & Software Development. Python (pandas, seaborn).
 - Anomaly Detection in Deposit Data. Data Science. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
-- Behavioural Model for Deposits. Data Analysis. Python (pandas, statsmodels, scipy, numpy, seaborn)
+- Behavioural Model for Deposits. Data Analysis. Python (statsmodels, scipy, numpy, pandas).
+- Behavioural Model for Deposits. Model & Software Development. R (dplyr, tidyverse, ggplot2).
 - Computation Core for ABS Rating Models. Software Development / Web Application / Backend. SAS.
 - Travel Manager. Web Application. Python, HTML, SQL, SQLite. [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU)
 - Computation Core for Portfolio Risk Model. Software Development / Desktop App / Backend. VisualBasic.NET
@@ -112,13 +113,14 @@ Here is my resume with project portfolio.
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
 |Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS|
 |Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS|
+|Default Early Warnings using NLP (Text Sentiment & Analysis)|Data Science|Console App|Backend Design|R (tm, nnet)|
 |Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS|
 |Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS|
 |Rating Model for Purchased Receivables|Software Dev|Web App|Design, Test, Project Mgmt|Apache Lucene|
-|Simulation Facility|Software Dev|Metadata Env|Design, Test, Project Mgmt|SAS Data Integration Studio|
+|Simulation Facility|Software Dev|Integration Env|Design, Test, Project Mgmt|SAS Data Integration Studio|
 |**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET|
 |Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS|
-|**Pooling Manager PuMa**|Software DevOps|Web App|Full-stack Dev|Java, Seam, HTML, SQL Server|
+|**Pooling Manager PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL Server|
 |Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R|
 |Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C|
 |**Statistical Control of Portfolio Weights. Monte-Carlo Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C|
