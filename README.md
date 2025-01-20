@@ -1,5 +1,5 @@
 ## Hi! 👋 I am Sergiy!
-Here is my project portfolio embedded in the resumee.
+Here is my project portfolio embedded in the resume.
 
 &nbsp;  
 ## 🛠 Work Experience
