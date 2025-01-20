@@ -104,8 +104,8 @@ Here is my resume with project portfolio.
 
 |Title|Type|Product|Role|Skills|
 |---|---|---|---|---|
-|Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn)|
-|**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn)|
+|Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Bootstrapping|
+|**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Clustering, Dim Reduction, Neural Networks|
 |Deposit Behav Model|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy)|
 |Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
