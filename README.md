@@ -1,8 +1,8 @@
-## Hi! 👋 I am Sergiy!
+## 👋 Hi! I am Sergiy!
 Here is my project portfolio embedded in the resume.
 
 &nbsp; 
-## Project Highlights
+## ⭐ Project Highlights
 - Behavioural Model for Committed Credit Lines. Model & Software Development. Python (pandas, seaborn).
 - Anomaly Detection. Data Science. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
 - Behavioural Model for Deposits. Data Analysis. Python (pandas, statsmodels, scipy, numpy, seaborn)
@@ -18,18 +18,18 @@ Here is my project portfolio embedded in the resume.
 
 &nbsp;  
 ## 🛠 Work Experience
-### Senior Portfolio Analyst, Liquidity Risk, UniCredit Bank (HVB), Munich
-### Senior Risk Modeller, Rating Technology, UniCredit Bank (HVB), Munich
-### Risk Analyst, Portfolio Risk Methodology, Sparkassen Rating & Risk Systems, Berlin
-### PhD Researcher, Chair of Quantitative Methods, esp. Statistics, European University Viadrina, Frankfurt (Oder)
-### Intern, Treasury Models & Analytics, Commerzbank, Frankfurt (Main)
-### Intern, Regulatory Models Trading Book, Dresdner Bank, Frankfurt (Main)
+#### 2018-now  Senior Portfolio Analyst, Liquidity Risk, UniCredit Bank (HVB), Munich
+#### 2011-2018 Senior Risk Modeller, Rating Technology, UniCredit Bank (HVB), Munich
+#### 2009-2011 Risk Analyst, Portfolio Risk Methodology, Sparkassen Rating & Risk Systems, Berlin
+#### 2006-2009 PhD Researcher, Chair of Quantitative Methods, esp. Statistics, European University Viadrina, Frankfurt (Oder)
+#### 2008 Intern, Treasury Models & Analytics, Commerzbank, Frankfurt (Main)
+#### 2007 Intern, Regulatory Models Trading Book, Dresdner Bank, Frankfurt (Main)
 
 &nbsp;  
 ## 🎓 Education
-### Diploma, Business Administration (Finance, Informatics, Statistics), EU Viadrina, Frankfurt (Oder)
-### Bachelor, Corporate Management, University of Management, Donetsk
-### Junior-Specialist, Automation of Technologies, Polytechnic School, Donetsk
+#### 2003-2006 Diploma, Business Administration (Finance, Informatics, Statistics), EU Viadrina, Frankfurt (Oder)
+#### 1999-2002 Bachelor, Corporate Management, University of Management, Donetsk
+#### 1995-1997 Junior-Specialist, Automation of Technologies, Polytechnic School, Donetsk
 
 &nbsp;
 ## 🏆 Certifications
@@ -54,10 +54,25 @@ Here is my project portfolio embedded in the resume.
 - SQL Server: Query Basics & Advances, Sarpedon Quality Lab, Berlin
 
 &nbsp;
-## Publications
+## 📜 Publications
 - [CUSUM Control Charts for Monitoring Optimal Portfolio Weights](https://www.sciencedirect.com/science/article/abs/pii/S0167947311001708). Computational Statistics and Data Analysis.
 - [On the Application of Statistical Process Control in Finance](https://link.springer.com/chapter/10.1007/978-3-7908-2380-6_8). Frontiers in Statistical Process Control
 - [Multivariate CUSUM Chart: Properties and Enhancements](https://link.springer.com/article/10.1007/s10182-009-0107-4). AStA Advances in Statistical Analysis.
+
+
+&nbsp;
+## 💻 Computer Literacy
+- Programming: Python, R, SAS, Java, C, VB.NET, VBA
+- 
+
+
+&nbsp;
+## 🌍 Languages
+- Ukrainian fluent
+- German fluent (C1 certificate)
+- English fluent (C1 certificate)
+- Polish fluent (B2 certificate)
+- French basic (B1 certificate)
 
 <!--
 **grey2018/grey2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
