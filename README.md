@@ -74,7 +74,7 @@ Here is my resume with project portfolio.
 - Big Data: Apache Spark, Google BigQuery, Databricks, Snowflake
 - Cloud Computing: Azure, GCP, AWS
 - Web Frontend: HTML, Flask, JBoss Seam, Hibernate, XML
-- IDE: Spyder, Jupyter Notebooks, RStudio, Eclipse, Visual Studio, SQL Server Integration Services, SAS Data Integration Services, SAS Enterprise Guide, WinEdt
+- IDE: Spyder, Jupyter Notebooks, RStudio, Eclipse, Visual Studio, SQL Server Integration Services, SAS Data Integration Studio, SAS Enterprise Guide, WinEdt
 - DevOps Infrastructure: Git, Subversion, Jenkins, Jira, Confluence, HP ALM Quality Center
 
 
@@ -103,7 +103,7 @@ Here is my resume with project portfolio.
 |Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS|
 |Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS|
 |Rating Model for Purchased Receivables|Software Dev|Web App|Design, Test, Project Mgmt|Apache Lucene|
-|Simulation Facility|Software Dev|Metadata Env|Design, Test, Project Mgmt|Python, Spyder|
+|Simulation Facility|Software Dev|Metadata Env|Design, Test, Project Mgmt|SAS Data Integration Studio|
 |**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET|
 |Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS|
 |**Pooling Manager PuMa**|Software DevOps|Web App|Full-stack Dev|Java, Seam, HTML, SQL Server|
