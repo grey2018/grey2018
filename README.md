@@ -1,5 +1,5 @@
 ## 👋 Hi! I am Sergiy!
-I am a Data & Risk Specialist with PhD Degree in Statistics and 15+ Years of Work Experience in Analytics, Modeling and Coding, passionate about Data Science.
+I am a Data & Risk Specialist with PhD Degree in Statistics and 15+ Years of Work Experience in Analytics, Modeling and Coding, passionate about Data Science and Machine Learning.
 
 Here is my resume with project portfolio.
 
@@ -38,7 +38,7 @@ Here is my resume with project portfolio.
 ## 🏅 Certifications
 - Power BI Analyst, Microsoft via Coursera
 - **Azure Data Science Associate, Microsoft** via Coursera
-- Azure AI Fundamentals, Microsoft via Coursera
+- Azure Artificial Intelligence Fundamentals, Microsoft via Coursera
 - Azure Data Fundamentals, Microsoft via Coursera
 - Azure Cloud Fundamentals, Microsoft via Coursera
 - AWS Fundamentals, AWS via Coursera
