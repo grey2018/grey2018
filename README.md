@@ -74,6 +74,29 @@ Here is my project portfolio embedded in the resume.
 - Polish fluent (B2 certificate)
 - French basic (B1 certificate)
 
+
+&nbsp;
+## 🏗 Projects
+
+|Title|Type|Product|Role|Skills|
+|---|---|---|---|---|
+|Committed Credit Lines Model|Software Dev|Console App|Backend Dev|Python, Spyder|
+|Committed Credit Lines Model|Software Dev|Console App|Backend Dev|Python, Spyder|
+|Committed Credit Lines Model|Software Dev|Console App|Backend Dev|Python, Spyder|
+|Committed Credit Lines Model|Software Dev|Console App|Backend Dev|Python, Spyder|
+|Committed Credit Lines Model|Software Dev|Console App|Backend Dev|Python, Spyder|
+|Committed Credit Lines Model|Software Dev|Console App|Backend Dev|Python, Spyder|
+|Committed Credit Lines Model|Software Dev|Console 
+App|Backend Dev|Python, Spyder|
+|Committed Credit Lines Model|Software Dev|Console App|Backend Dev|Python, Spyder|
+|Committed Credit Lines Model|Software Dev|Console App|Backend Dev|Python, Spyder|
+|Committed Credit Lines Model|Software Dev|Console App|Backend Dev|Python, Spyder|
+|Committed Credit Lines Model|Software Dev|Console App|Backend Dev|Python, Spyder|
+|Committed Credit Lines Model|Software Dev|Console App|Backend Dev|Python, Spyder|
+|Committed Credit Lines Model|Software Dev|Console App|Backend Dev|Python, Spyder|
+|Committed Credit Lines Model|Software Dev|Console 
+App|Backend Dev|Python, Spyder|
+
 <!--
 **grey2018/grey2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
