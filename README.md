@@ -1,6 +1,19 @@
 ## Hi! 👋 I am Sergiy!
 Here is my project portfolio embedded in the resume.
 
+&nbsp; 
+## Project Highlights
+- Behavioural Model for Committed Credit Lines. Model & Software Development. Python (pandas, seaborn).
+- Anomaly Detection. Data Science. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
+- Behavioural Model for Deposits. Data Analysis. Python (pandas, statsmodels, scipy, numpy, seaborn)
+- Computation Core for ABS Rating Models. Software Development / Web Application / Backend. SAS.
+- Travel Manager. Software Development / Full Stack / Web Application. Python, HTML, SQL, SQLite. [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU)
+- Computation Core for Portfolio Risk Model. Software Development / Desktop App / Backend. VisualBasic.NET
+- Computation Core for Portfolio Risk Model. Software Development / Console App / Backend. R.
+- Pooling Management. Software Development / Web App / Full Stack. Java, HTML, SQL, SQL Server.
+- ETL Tool for P&L Attribution Reporting. Software Development / Desktop App / Full Stack. VBA, Access.
+- Backtesting of Counterparty Credit Risk Model. Software Development / Web App / Backend. Java.
+
 &nbsp;  
 ## 🛠 Work Experience
 ### Senior Portfolio Analyst, Liquidity Risk, UniCredit Bank (HVB), Munich
