@@ -1,4 +1,6 @@
 ## 👋 Hi! I am Sergiy!
+I am a Data & Risk Specialist with PhD Degree in Statistics and 15+ Years of Work Experience in Analytics, Modeling and Coding, passionate about Data Science.
+
 Here is my resume with project portfolio.
 
 &nbsp; 
