@@ -6,7 +6,7 @@ Here is my resume with project portfolio.
 &nbsp; 
 ## ⭐ Project Highlights
 - Behavioural Model for Committed Credit Lines. Model & Software Development. Python (pandas, seaborn).
-- Anomaly Detection. Data Science. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
+- Anomaly Detection in Deposit Data. Data Science. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
 - Behavioural Model for Deposits. Data Analysis. Python (pandas, statsmodels, scipy, numpy, seaborn)
 - Computation Core for ABS Rating Models. Software Development / Web Application / Backend. SAS.
 - Travel Manager. Web Application. Python, HTML, SQL, SQLite. [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU)
@@ -92,7 +92,7 @@ Here is my resume with project portfolio.
 |Title|Type|Product|Role|Skills|
 |---|---|---|---|---|
 |Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn)|
-|**Anomaly Detection with Machine Learning**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn)|
+|**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn)|
 |Deposit Behav Model|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy)|
 |Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
