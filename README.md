@@ -1,5 +1,5 @@
 ## 👋 Hi! I am Sergiy!
-Here is my project portfolio embedded in the resume.
+Here is my resume with project portfolio.
 
 &nbsp; 
 ## ⭐ Project Highlights
