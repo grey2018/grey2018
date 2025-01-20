@@ -12,7 +12,6 @@ Here is my resume with project portfolio.
 - Pooling Management. Software Development / Web App / Full Stack. Java, HTML, SQL, SQL Server.
 - CUSUM Control Charts for Monitoring Optimal Portfolio Weights. Model and Software Development / Console App / Backend. C.
 
-
 &nbsp;  
 ## 🛠 Work Experience
 - 2018-now  Senior Portfolio Analyst, Liquidity Risk, UniCredit Bank (HVB), Munich
@@ -21,30 +20,37 @@ Here is my resume with project portfolio.
 - 2006-2009 PhD Researcher, Chair of Quantitative Methods, esp. Statistics, European University Viadrina, Frankfurt (Oder)
 - 2008 Intern, Treasury Models & Analytics, Commerzbank, Frankfurt (Main)
 - 2007 Intern, Regulatory Models Trading Book, Dresdner Bank, Frankfurt (Main)
+- 2005 Student Assistant, Chair of Capital Markets, EU Viadrina, Frankfurt (Oder)
+- 2002 Intern, Financial Analysis, UkrSotsBank, Donetsk
+- 2001 Intern, Business Analysis, TotchMash Precision Mechanics, Donetsk
+- 1999 Intern, Metrology and Automation Systems, KoksoKhim Chemical Plant, Avdiivka
+- 1998 Intern, Research & Development, Institute of Refrigerating Appliance, Donetsk
 
 &nbsp;  
 ## 🎓 Education
-- 2003-2006 Diploma, Business Administration (Finance, Informatics, Statistics), EU Viadrina, Frankfurt (Oder)
-- 1999-2002 Bachelor, Corporate Management, University of Management, Donetsk
-- 1995-1997 Junior-Specialist, Automation of Technologies, Polytechnic School, Donetsk
+- 2003-2006 Diploma, Business Administration (Finance, Informatics, Statistics), EU Viadrina, Frankfurt (Oder) 🇩🇪
+- 1999-2002 Bachelor, Corporate Management, State University of Management, Donetsk 🇺🇦
+- 1995-1997 Junior-Specialist, Automation of Technologies, Polytechnic School, Donetsk 🇺🇦
+
 &nbsp;
 ## 🏅 Certifications
-- Azure Data Science Associate, Microsoft via Coursera
+- Power BI Analyst, Microsoft via Coursera
+- **Azure Data Science Associate, Microsoft** via Coursera
 - Azure AI Fundamentals, Microsoft via Coursera
 - Azure Data Fundamentals, Microsoft via Coursera
 - Azure Cloud Fundamentals, Microsoft via Coursera
 - AWS Fundamentals, AWS via Coursera
-- Data Engineering on Google Cloud, Google via Coursera
+- **Data Engineering, Big Data and Machine Learning on Google Cloud, Google** via Coursera
 - Containers with Docker, Kubernetes and OpenShift, IBM via Coursera
 - Intro to MongoDB, MongoDB via Coursera
 - Linked Data Engineering, Hasso Plattner Institute via OpenHPI
 - Classical Machine Learning for Financial Engineering, New York NYU via edX
-- Big Data Analytics using Spark, UC Sand Diego via edX
-- Machine Learning with Python, MIT via edX
+- **Big Data Analytics using Spark, UC Sand Diego** via edX
+- **Machine Learning with Python, MIT** via edX
 - Foundations of Data Science, UC Berkeley via edX
 - Python Data Science, IBM via edX
-- CS50 Intro to Computer Science, Harvard via edX
-- PMI Project Management, Frankfurt School of Finance & Management
+- **CS50 Intro to Computer Science, Harvard** via edX
+- **PMI Project Management, Frankfurt School of Finance & Management**
 - SAS Advances, msgGillardon, Munich
 - SAS Risk Dimensions, SAS Institute, Munich
 - SQL Server: Query Basics & Advances, Sarpedon Quality Lab, Berlin
