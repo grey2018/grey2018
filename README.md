@@ -20,6 +20,9 @@ Here is my resume with project portfolio.
 - 2011-2018: Senior Risk Modeller, Rating Technology, UniCredit Bank (HVB), Munich
 - 2009-2011: Risk Analyst, Portfolio Risk Methodology, Sparkassen Rating & Risk Systems, Berlin
 - 2006-2009: PhD Researcher, Chair of Quantitative Methods, esp. Statistics, European University Viadrina, Frankfurt (Oder)
+
+&nbsp;
+## 🔧 Internships
 - 2008: Intern, Treasury Models & Analytics, Commerzbank, Frankfurt (Main)
 - 2007: Intern, Regulatory Models Trading Book, Dresdner Bank, Frankfurt (Main)
 - 2005: Student Assistant, Chair of Capital Markets, EU Viadrina, Frankfurt (Oder)
@@ -30,12 +33,21 @@ Here is my resume with project portfolio.
 
 &nbsp;  
 ## 🎓 Education
-- 2003-2006: Diploma, Business Administration (Finance, Informatics, Statistics), EU Viadrina, Frankfurt (Oder) 🇩🇪
+- 2003-2006: Diploma, Business Administration (Finance, Informatics, Statistics, Total Grade 1.5 "very good"), EU Viadrina, Frankfurt (Oder) 🇩🇪
 - 1999-2002: Bachelor, Corporate Management, State University of Management, Donetsk 🇺🇦
 - 1995-1997: Junior-Specialist, Automation of Technologies, Polytechnic School, Donetsk 🇺🇦
 
 &nbsp;
-## 🏅 Certifications
+## 🏆 Awards
+- PhD Scholarship by Deutsche Bank Stiftung
+- Merit Scholarship by DaimlerChrysler
+- Merit Scholarship by EKO Stahl
+- European Study Scholarship by DAAD German Academic Exchange Service
+- Bachelor with Distinction
+- Junior Specialist with Distinction 
+
+&nbsp;
+## 🧾 Certifications
 - Power BI Analyst, Microsoft via Coursera
 - **Azure Data Science Associate, Microsoft** via Coursera
 - Azure Artificial Intelligence Fundamentals, Microsoft via Coursera
