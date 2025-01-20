@@ -1,6 +1,7 @@
 ## Hi! 👋 I am Sergiy!
 Here is my project portfolio embedded in the resumee.
 
+&nbsp;  
 ## 🛠 Work Experience
 ### Senior Portfolio Analyst, Liquidity Risk, UniCredit Bank (HVB), Munich
 ### Senior Risk Modeller, Rating Technology, UniCredit Bank (HVB), Munich
@@ -9,18 +10,20 @@ Here is my project portfolio embedded in the resumee.
 ### Intern, Treasury Models & Analytics, Commerzbank, Frankfurt (Main)
 ### Intern, Regulatory Models Trading Book, Dresdner Bank, Frankfurt (Main)
 
+&nbsp;  
 ## 🎓 Education
-### Diploma, Business Administration (Finance, Infromatics, Statistics), EU Viadrina, Frankfurt (Oder)
-### Bachelor, Corp Mgmt, University of Management, Donetsk
+### Diploma, Business Administration (Finance, Informatics, Statistics), EU Viadrina, Frankfurt (Oder)
+### Bachelor, Corporate Management, University of Management, Donetsk
 ### Junior-Specialist, Automation of Technologies, Polytechnic School, Donetsk
 
+&nbsp;
 ## 🏆 Certifications
 - Azure Data Science Associate, Microsoft via Coursera
 - Azure AI Fundamentals, Microsoft via Coursera
 - Azure Data Fundamentals, Microsoft via Coursera
 - Azure Cloud Fundamentals, Microsoft via Coursera
-- Data Engineering on Google Cloud, Google via Coursera
 - AWS Fundamentals, AWS via Coursera
+- Data Engineering on Google Cloud, Google via Coursera
 - Containers with Docker, Kubernetes and OpenShift, IBM via Coursera
 - Intro to MongoDB, MongoDB via Coursera
 - Linked Data Engineering, Hasso Plattner Institute via OpenHPI
@@ -35,6 +38,7 @@ Here is my project portfolio embedded in the resumee.
 - SAS Risk Dimensions, SAS Institute, Munich
 - SQL Server: Query Basics & Advances, Sarpedon Quality Lab, Berlin
 
+&nbsp;
 
 <!--
 **grey2018/grey2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
