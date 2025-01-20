@@ -16,23 +16,23 @@ Here is my resume with project portfolio.
 
 &nbsp;  
 ## 🛠 Work Experience
-- 2018-now  Senior Portfolio Analyst, Liquidity Risk, UniCredit Bank (HVB), Munich
-- 2011-2018 Senior Risk Modeller, Rating Technology, UniCredit Bank (HVB), Munich
-- 2009-2011 Risk Analyst, Portfolio Risk Methodology, Sparkassen Rating & Risk Systems, Berlin
-- 2006-2009 PhD Researcher, Chair of Quantitative Methods, esp. Statistics, European University Viadrina, Frankfurt (Oder)
-- 2008 Intern, Treasury Models & Analytics, Commerzbank, Frankfurt (Main)
-- 2007 Intern, Regulatory Models Trading Book, Dresdner Bank, Frankfurt (Main)
-- 2005 Student Assistant, Chair of Capital Markets, EU Viadrina, Frankfurt (Oder)
-- 2002 Intern, Financial Analysis, UkrSotsBank, Donetsk
-- 2001 Intern, Business Analysis, TotchMash Precision Mechanics, Donetsk
-- 1999 Intern, Metrology and Automation Systems, KoksoKhim Chemical Plant, Avdiivka
-- 1998 Intern, Research & Development, Institute of Refrigerating Appliance, Donetsk
+- 2018- now: Senior Portfolio Analyst, Liquidity Risk, UniCredit Bank (HVB), Munich
+- 2011-2018: Senior Risk Modeller, Rating Technology, UniCredit Bank (HVB), Munich
+- 2009-2011: Risk Analyst, Portfolio Risk Methodology, Sparkassen Rating & Risk Systems, Berlin
+- 2006-2009: PhD Researcher, Chair of Quantitative Methods, esp. Statistics, European University Viadrina, Frankfurt (Oder)
+- 2008: Intern, Treasury Models & Analytics, Commerzbank, Frankfurt (Main)
+- 2007: Intern, Regulatory Models Trading Book, Dresdner Bank, Frankfurt (Main)
+- 2005: Student Assistant, Chair of Capital Markets, EU Viadrina, Frankfurt (Oder)
+- 2002: Intern, Financial Analysis, UkrSotsBank, Donetsk
+- 2001: Intern, Business Analysis, TotchMash Precision Mechanics, Donetsk
+- 1999: Intern, Metrology and Automation Systems, KoksoKhim Chemical Plant, Avdiivka
+- 1998: Intern, Research & Development, Institute of Refrigerating Appliance, Donetsk
 
 &nbsp;  
 ## 🎓 Education
-- 2003-2006 Diploma, Business Administration (Finance, Informatics, Statistics), EU Viadrina, Frankfurt (Oder) 🇩🇪
-- 1999-2002 Bachelor, Corporate Management, State University of Management, Donetsk 🇺🇦
-- 1995-1997 Junior-Specialist, Automation of Technologies, Polytechnic School, Donetsk 🇺🇦
+- 2003-2006: Diploma, Business Administration (Finance, Informatics, Statistics), EU Viadrina, Frankfurt (Oder) 🇩🇪
+- 1999-2002: Bachelor, Corporate Management, State University of Management, Donetsk 🇺🇦
+- 1995-1997: Junior-Specialist, Automation of Technologies, Polytechnic School, Donetsk 🇺🇦
 
 &nbsp;
 ## 🏅 Certifications
@@ -80,12 +80,11 @@ Here is my resume with project portfolio.
 
 &nbsp;
 ## 🌍 Languages
-- Ukrainian fluent
-- German fluent (C1 certificate)
-- English fluent (C1 certificate)
-- Polish fluent (B2 certificate)
-- French basic (B1 certificate)
-
+- Ukrainian: fluent
+- German: fluent (C1 certificate)
+- English: fluent (C1 certificate)
+- Polish: fluent (B2 certificate)
+- French: basic (B1 certificate)
 
 &nbsp;
 ## 🏗 Projects
