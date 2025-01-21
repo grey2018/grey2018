@@ -117,7 +117,7 @@ Here is my resume with project portfolio.
 |Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, SPC, MCUSUM, ARL, WED|
 |**Statistical Control of Portfolio Weights. Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, SPC, MCUSUM, ARL, WED, Monte-Carlo Simulation|
 |Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Mathematica, Wolfram, SPC, Mahalanobis-CUSUM, Log-MCUSUM, ARL, Monte-Carlo Simulation|
-|EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access, SQL, Rho, Theta|
+|EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access, SQL, Delta, Vega, Rho, Theta|
 |Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase, Moneyness, Kupiec-Test, Crnkovic-Drachman Test, Derivative Valuation (Black-Scholes, Vasicek), Monte-Carlo Simulation|
 
 <!--
