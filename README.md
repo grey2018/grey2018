@@ -106,27 +106,27 @@ Here is my resume with project portfolio.
 |---|---|---|---|---|
 |Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Bootstrapping|
 |**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Clustering, Dim Reduction, Neural Networks|
-|Deposit Behav Model|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy)|
+|Deposit Behav Model|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Geom Brownian Motion, Time Series Analysis|
 |Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
 |Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse)|
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
-|Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS|
-|Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS|
+|Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS (data, macros)|
+|Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS (data, macros)|
 |Default Early Warnings using NLP (Text Sentiment & Analysis)|Data Science|Console App|Backend Design|R (tm, nnet)|
-|Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS|
-|Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS|
+|Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS (data, macros, risk)|
+|Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS (data, macros, risk)|
 |Rating Model for Purchased Receivables|Software Dev|Web App|Design, Test, Project Mgmt|Apache Lucene|
 |Simulation Facility|Software Dev|Integration Env|Design, Test, Project Mgmt|SAS Data Integration Studio|
-|**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET|
+|**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET, Monte-Carlo Simulation, VaR, ES|
 |Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS|
 |**Pooling Manager PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL Server|
-|Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R|
-|Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C|
-|**Statistical Control of Portfolio Weights. Monte-Carlo Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C|
-|Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Mathematica|
-|EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access|
-|Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase|
+|Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Monte-Carlo Simulation, VaR, ES|
+|Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, MCUSUM-SPC, ARL, WED|
+|**Statistical Control of Portfolio Weights. Monte-Carlo Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, MCUSUM-SPC, ARL, WED|
+|Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Mathematica, Log-MCUSUM, Mahalanobis-CUSUM|
+|EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access, Rho, Theta|
+|Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase, Kupiec-Test, Crnkovic-Drachman Test, Derivative Valuation (Black-Scholes, Vasicek), Moneyness|
 
 <!--
 **grey2018/grey2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
