@@ -123,9 +123,9 @@ Here is my resume with project portfolio.
 |Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS, PD|
 |**Pooling Manager PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL Server|
 |Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Fortran, Monte-Carlo Simulation, VaR, Expected Shortfall|
-|Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, MCUSUM-SPC, ARL, WED|
-|**Statistical Control of Portfolio Weights. Monte-Carlo Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, MCUSUM-SPC, ARL, WED|
-|Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Mathematica, Log-MCUSUM, Mahalanobis-CUSUM, Monte-Carlo Simulation|
+|Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, SPC, MCUSUM, ARL, WED|
+|**Statistical Control of Portfolio Weights. Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, SPC, MCUSUM, ARL, WED, Monte-Carlo Simulation|
+|Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Mathematica, SPC, Mahalanobis-CUSUM, Log-MCUSUM, ARL, Monte-Carlo Simulation|
 |EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access, SQL, Rho, Theta|
 |Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase, Moneyness, Kupiec-Test, Crnkovic-Drachman Test, Derivative Valuation (Black-Scholes, Vasicek), Monte-Carlo Simulation|
 
