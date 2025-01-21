@@ -98,7 +98,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |Deposit Stress Parameters|Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Spyder, Rollover Rates, LST, EWI|
 |Non-Emergency Complaints in NYC|Data Science|Console App|Backend Dev|Python (numpy, pandas, matplotlib, scikit-learn)|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
-|Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2), RStudio, Stable & Core Volume, NSFR, SLR|
+|Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2), RStudio, Geometric Brownian Motion, OLS Regression, Stable & Core Volume, NSFR, SLR|
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
 |Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
 |Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
