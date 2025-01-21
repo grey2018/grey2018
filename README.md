@@ -72,13 +72,13 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - **Python Libs**: numpy, scipy, statsmodels, pandas, scikit-learn, xgboost, Keras, PyTorch, matplotlib, seaborn
 - **R Libs**: dplyr, tidyverse, maggritr, ggplot2, data.table, tm, nnet, spc
 - **DBMS**: Access, SQL Server, MySQL, SQLite, Oracle, Teradata, Sybase, MongoDB
-- **Data Analytics**: Excel, Power BI, Tableau, MicroStrategy, Palantir Foundry, Watson Studio, Mathematica, Statistica
+- **Data Analytics**: Power BI, Tableau, MicroStrategy, Palantir Foundry, Watson Studio, Mathematica, Statistica, Excel, OpenOffice/Calc
 - **Big Data**: Apache Spark, Google BigQuery, Databricks, Snowflake
 - **Cloud Computing**: Azure, GCP, AWS, IBM Cloud
 - **Web Frontend**: Flask, JBoss Seam, Hibernate, CSS, JavaScript, JSON
 - **Text Markup**: HTML, XML, TeX/LaTeX, Markdown, RDF/OWL, Wolfram
-- **IDE**: Spyder, PyCharm, Jupyter Notebooks, RStudio, Eclipse, Visual Studio, SQL Server Integration Services, SAS Data Integration Studio, SAS Enterprise Guide, WinEdt
-- **Infrastructure**: Git, Subversion, Jenkins, Jira, Confluence, HP ALM Quality Center
+- **IDE**: Spyder, PyCharm, Jupyter Notebooks, RStudio, TinnR, Eclipse, JCreator, Visual Studio, SQL Server Integration Services, SAS Data Integration Studio, SAS Enterprise Guide, WinEdt, Notepad++, Linux Ubuntu Shell
+- **Infrastructure**: Git, Subversion, Jenkins, Jira, Confluence, HP ALM Quality Center, Docker, PuTTY
 &nbsp;
 ## 🌍 Languages
 - Ukrainian: fluent
