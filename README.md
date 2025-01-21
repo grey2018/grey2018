@@ -5,14 +5,14 @@ Here is my resume with project portfolio.
 &nbsp; 
 ## ⭐ Highlight Projects
 - Anomaly Detection in Deposit Data. Data Science / Console Backend. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
-- Statistical Tests of GBM Model Assumptions. Data Analysis / Console Backend. Python (statsmodels, scipy, numpy, pandas).
+- Statistical Tests of GBM Assumptions. Data Analysis / Console Backend. Python (statsmodels, scipy, numpy, pandas).
 - Behavioural Model for Deposits. Model & Software Dev / Console Backend. R (dplyr, pipes, tidyverse, ggplot2).
 - Computation Core for ABS Rating Models. Software Dev / Web Backend. SAS.
 - Travel Manager. Software Dev / Web Fullstack. Python, HTML, SQL, SQLite. [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU).
 - Computation Core for Portfolio Risk Model. Software Dev / Desktop Backend. VisualBasic.NET, C#.
 - Pooling Management. Software Dev / Web Fullstack. Java, HTML, SQL, SQL Server.
 - Multivariate CUSUM Charts for Statistical Monitoring of Portfolio Weights. Model and Software Dev / Console Backend. C.
-- Back-Testing of Derivative Exposure Simulation Model. Model and Software Dev / Web Backend. Java, SQL.
+- Back-Testing of Derivative Exposure Simulation. Model and Software Dev / Web Backend. Java, SQL.
 &nbsp;  
 ## 🛠 Work Experience
 - 2018- now: Senior Portfolio Analyst, Liquidity Risk, UniCredit Bank (HVB), Munich
