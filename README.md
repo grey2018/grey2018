@@ -24,7 +24,7 @@ Here is my resume with project portfolio.
 &nbsp;
 ## 🔧 Internships
 - 2008: Intern, Treasury Models & Analytics, Commerzbank, Frankfurt (Main)
-- 2007: Intern, Regulatory Models Trading Book, Dresdner Bank, Frankfurt (Main)
+- 2007: Intern, Regulatory Models for Trading Book, Dresdner Bank, Frankfurt (Main)
 - 2005: Student Assistant, Chair of Capital Markets, EU Viadrina, Frankfurt (Oder)
 - 2002: Intern, Financial Analysis, UkrSotsBank, Donetsk
 - 2001: Intern, Business Analysis, TotchMash Precision Mechanics, Donetsk
