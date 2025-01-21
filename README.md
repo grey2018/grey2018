@@ -92,27 +92,27 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 
 |Project Description|Project Type|Product Type|Role|Skills|
 |---|---|---|---|---|
-|Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Spyder, Bootstrapping, VaR, LST, SLR|
-|Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python, Spyder, VaR, Stochastic Criticals, Continuous Floor|
+|Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Spyder, Bootstrapping, Forecasting, VaR, LST, SLR|
+|Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python, Spyder, Forecasting, VaR, Stochastic Criticals, Continuous Floor|
 |**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Spyder, Clustering, Dim Reduction, ANN|
 |Statistical Validation of Deposit GBM Process|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Spyder, Geometric Brownian Motion, Time Series Analysis (Stationarity, Normality, Autocorrelation)|
 |Deposit Stress Parameters|Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Spyder, Rollover Rates, LST, EWI|
 |Non-Emergency Complaints in NYC|Data Science|Console App|Backend Dev|Python (numpy, pandas, matplotlib, scikit-learn)|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
-|Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2), RStudio, Geometric Brownian Motion, Regression, Stable & Core Volume, NSFR, SLR|
+|Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2), RStudio, Forecasting, Geometric Brownian Motion, Regression, Stable & Core Volume, NSFR, SLR|
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
 |Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
 |Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
-|Default Early Warnings using NLP|Data Science|Console App|Backend Design|R (tm, nnet), API (Twitter, Google News), Text Sentiment, Text Analysis|
+|Default Early Warnings using NLP|Data Science|Console App|Backend Design|R (tm, nnet), API (Twitter, Google News), Forecasting, Text Sentiment/Analysis|
 |Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), Java, Monte-Carlo Simulation, PD|
 |Rating Model for Purchased Receivables. Customer Matching|Software Dev|Web App|Design, Test, Project Mgmt|Apache Lucene|
 |Simulation Facility|Software Dev|Integration Env|Design, Test, Project Mgmt|SAS Data Integration Studio|
 |Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), SAS Enterprise Guide, Monte-Carlo Simulation, PD|
 |Rating Model for Global Shipping|Software Dev|Web App|Design, Test, Project Mgmt|SAS (data, macros, risk), Java, Monte-Carlo Simulation, PD, LGD, Collateral Valuation|
-|**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET, C#, OOP, Visual Studio, Monte-Carlo Simulation, VaR, Expected Shortfall|
-|Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS, PD|
+|**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET, C#, OOP, Visual Studio, Forecasting, Monte-Carlo Simulation, VaR, Expected Shortfall|
+|Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS, PD, Transition Matrix|
 |**Pooling Management PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL, SQL Server, Eclipse|
-|Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Fortran, TinnR, Monte-Carlo Simulation, VaR, Expected Shortfall|
+|Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Fortran, TinnR, Forecasting, Monte-Carlo Simulation, VaR, Expected Shortfall|
 |Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, Ubuntu Shell, GMVP, SPC, MCUSUM, ARL, WED, Bootstrapping|
 |**Statistical Control of Portfolio Weights. Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, Ubuntu Shell, GMVP, SPC, MCUSUM, ARL, WED, Monte-Carlo Simulation|
 |Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Ubuntu Shell, Mathematica, Wolfram, SPC, Mahalanobis-CUSUM, Log-MCUSUM, ARL, Monte-Carlo Simulation|
