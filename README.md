@@ -39,7 +39,7 @@ Here is my resume with project portfolio.
 
 &nbsp;
 ## 🏆 Awards
-- PhD Scholarship by Deutsche Bank Stiftung
+- PhD Research Scholarship by Deutsche Bank Stiftung
 - Merit Scholarship by DaimlerChrysler
 - Merit Scholarship by EKO Stahl
 - European Study Scholarship by DAAD German Academic Exchange Service
