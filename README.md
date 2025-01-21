@@ -4,7 +4,7 @@ I am a Data & Risk Specialist with PhD Degree in Statistics and 15+ Years of Wor
 Here is my resume with project portfolio.
 
 &nbsp; 
-## ⭐ Project Highlights
+## ⭐ Highlight Projects
 - Anomaly Detection in Deposit Data. Data Science / Console / Backend. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
 - Behavioural Model for Deposits. Data Analysis / Console / Backend. Python (statsmodels, scipy, numpy, pandas).
 - Behavioural Model for Deposits. Model & Software Development / Console / Backend. R (dplyr, tidyverse, ggplot2).
@@ -104,7 +104,7 @@ Here is my resume with project portfolio.
 |Project Description|Project Type|Product Type|Role|Skills|
 |---|---|---|---|---|
 |Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Bootstrapping, VaR|
-|**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Clustering, Dim Reduction, Neural Networks|
+|**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Clustering, Dim Reduction, ANN|
 |Deposit Behav Model|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Geometric Brownian Motion, Time Series Analysis|
 |Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python, VaR|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
@@ -118,7 +118,7 @@ Here is my resume with project portfolio.
 |Simulation Facility|Software Dev|Integration Env|Design, Test, Project Mgmt|SAS Data Integration Studio|
 |Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS (data, macros, risk)|
 |Rating Model for Global Shipping|Software Dev|Web App|Design, Test, Project Mgmt|SAS (data, macros, risk), Java|
-|**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET, Monte-Carlo Simulation, VaR, Expected Shortfall|
+|**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET, C#, Monte-Carlo Simulation, VaR, Expected Shortfall|
 |Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS|
 |**Pooling Manager PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL Server|
 |Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Fortran, Monte-Carlo Simulation, VaR, Expected Shortfall|
