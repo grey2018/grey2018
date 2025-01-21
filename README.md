@@ -74,10 +74,11 @@ Here is my resume with project portfolio.
 - **Python Libs**: numpy, scipy, statsmodels, pandas, scikit-learn, xgboost, Keras, matplotlib, seaborn
 - **R Libs**: dplyr, tidyverse, maggritr, ggplot2, data.table, tm, nnet, spc
 - **DBMS**: Access, SQL Server, MySQL, SQLite, Oracle, Teradata, Sybase, MongoDB
-- **Data Analytics**: Excel, Power BI, Tableau, MicroStrategy, Palantir Foundry, Mathematica, Statistica
+- **Data Analytics**: Excel, Power BI, Tableau, MicroStrategy, Palantir Foundry, Watson Studio, Mathematica, Statistica
 - **Big Data**: Apache Spark, Google BigQuery, Databricks, Snowflake
-- **Cloud Computing**: Azure, GCP, AWS
-- **Web Frontend**: HTML, Flask, JBoss Seam, Hibernate, XML
+- **Cloud Computing**: Azure, GCP, AWS, IBM Cloud
+- **Web Frontend**: Python/Flask, JBoss Seam, Hibernate, CSS, JavaScript, JSON
+- **Text Markup**: HTML, XML, TeX/LaTeX, Markdown, RDF/OWL, Wolfram
 - **IDE**: Spyder, PyCharm, Jupyter Notebooks, RStudio, Eclipse, Visual Studio, SQL Server Integration Services, SAS Data Integration Studio, SAS Enterprise Guide, WinEdt
 - **Infrastructure**: Git, Subversion, Jenkins, Jira, Confluence, HP ALM Quality Cen
 &nbsp;
@@ -97,6 +98,7 @@ Here is my resume with project portfolio.
 |Statistical Tests of GBM Assumptions|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Geometric Brownian Motion, Time Series Analysis (Stationarity, Normality, Autocorrelation)|
 |Deposit Stress Parameters|Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Rollover Rates, LST, EWI|
 |Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python, VaR, Stochastic Criticals, Continuous Floor|
+|Non-Emergency Complaints in NYC|Data Science|Console App|Backend Dev|Python (pandas, scikit-learn)|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
 |Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2), Stable & Core Volume, NSFR, SLR|
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
@@ -114,7 +116,7 @@ Here is my resume with project portfolio.
 |Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Fortran, Monte-Carlo Simulation, VaR, Expected Shortfall|
 |Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, SPC, MCUSUM, ARL, WED|
 |**Statistical Control of Portfolio Weights. Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, SPC, MCUSUM, ARL, WED, Monte-Carlo Simulation|
-|Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Mathematica, SPC, Mahalanobis-CUSUM, Log-MCUSUM, ARL, Monte-Carlo Simulation|
+|Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Mathematica, Wolfram, SPC, Mahalanobis-CUSUM, Log-MCUSUM, ARL, Monte-Carlo Simulation|
 |EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access, SQL, Rho, Theta|
 |Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase, Moneyness, Kupiec-Test, Crnkovic-Drachman Test, Derivative Valuation (Black-Scholes, Vasicek), Monte-Carlo Simulation|
 
