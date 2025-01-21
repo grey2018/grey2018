@@ -71,7 +71,7 @@ Here is my resume with project portfolio.
 &nbsp;
 ## 💻 Computer Literacy
 - **Programming**: Python, R, SAS, Java, C, VB.NET, VBA, SQL
-- **Python Libs**: numpy, scipy, statsmodels, pandas, scikit-learn, xgboost, Keras, matplotlib, seaborn
+- **Python Libs**: numpy, scipy, statsmodels, pandas, scikit-learn, xgboost, Keras, PyTorch, matplotlib, seaborn
 - **R Libs**: dplyr, tidyverse, maggritr, ggplot2, data.table, tm, nnet, spc
 - **DBMS**: Access, SQL Server, MySQL, SQLite, Oracle, Teradata, Sybase, MongoDB
 - **Data Analytics**: Excel, Power BI, Tableau, MicroStrategy, Palantir Foundry, Watson Studio, Mathematica, Statistica
