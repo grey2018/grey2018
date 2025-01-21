@@ -1,6 +1,5 @@
 ## 👋 Hi! I am Sergiy!
 I am a Data & Risk Specialist with PhD Degree in Statistics and 15+ Years of Work Experience in Analytics, Modeling and Coding, passionate about Data Science and Machine Learning.
-
 &nbsp; 
 ## ⭐ Highlight Projects
 - Anomaly Detection in Deposit Data. Data Science / Console Backend. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
