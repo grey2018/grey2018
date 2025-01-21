@@ -2,7 +2,6 @@
 I am a Data & Risk Specialist with PhD Degree in Statistics and 15+ Years of Work Experience in Analytics, Modeling and Coding, passionate about Data Science and Machine Learning.
 
 Here is my resume with project portfolio.
-
 &nbsp; 
 ## ⭐ Highlight Projects
 - Anomaly Detection in Deposit Data. Data Science / Console Backend. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
@@ -13,14 +12,12 @@ Here is my resume with project portfolio.
 - Computation Core for Portfolio Risk Model. Software Dev / Desktop Backend. VisualBasic.NET, C#.
 - Pooling Management. Software Dev / Web Fullstack. Java, HTML, SQL, SQL Server.
 - Multivariate CUSUM Charts for Statistical Monitoring of Portfolio Weights. Model and Software Dev / Console Backend. C.
-
 &nbsp;  
 ## 🛠 Work Experience
 - 2018- now: Senior Portfolio Analyst, Liquidity Risk, UniCredit Bank (HVB), Munich
 - 2011-2018: Senior Risk Modeller, Rating Technology, UniCredit Bank (HVB), Munich
 - 2009-2011: Risk Analyst, Portfolio Risk Methodology, Sparkassen Rating & Risk Systems, Berlin
 - 2006-2009: PhD Researcher, Chair of Quantitative Methods, esp. Statistics, European University Viadrina, Frankfurt (Oder)
-
 &nbsp;
 ## 🔧 Internships
 - 2008: Intern, Treasury Models & Analytics, Commerzbank, Frankfurt (Main)
@@ -30,13 +27,11 @@ Here is my resume with project portfolio.
 - 2001: Intern, Business Analysis, TotchMash Precision Mechanics, Donetsk
 - 1999: Intern, Metrology and Automation Systems, KoksoKhim Chemical Plant, Avdiyivka
 - 1998: Intern, Research & Development, Institute of Refrigerating Appliance, Donetsk
-
 &nbsp;  
 ## 🎓 Education
 - 2003-2006: Diploma, Business Administration (Finance, Informatics, Statistics), Grade 1.5 (very good), EU Viadrina, Frankfurt (Oder)
 - 1999-2002: Bachelor, Corporate Management, State University of Management, Donetsk
 - 1995-1997: Junior Specialist, Automation of Technologies, Polytechnic School, Donetsk
-
 &nbsp;
 ## 🏆 Awards
 - PhD Research Scholarship by Deutsche Bank Foundation
@@ -45,7 +40,6 @@ Here is my resume with project portfolio.
 - European Study Scholarship by DAAD (German Academic Exchange Service)
 - Bachelor Degree with Distinction
 - Junior Specialist Degree with Distinction 
-
 &nbsp;
 ## 🧾 Certifications
 - Power BI Analyst, Microsoft via Coursera
@@ -68,14 +62,11 @@ Here is my resume with project portfolio.
 - SAS Advances, msgGillardon, Munich
 - SAS Risk Dimensions, SAS Institute, Munich
 - SQL Server: Query Basics & Advances, Sarpedon Quality Lab, Berlin
-
 &nbsp;
 ## 📖 Publications
 - [CUSUM Control Charts for Monitoring Optimal Portfolio Weights](https://www.sciencedirect.com/science/article/abs/pii/S0167947311001708). Golosnoy, Ragulin, Schmid. Computational Statistics and Data Analysis.
 - [On the Application of Statistical Process Control in Finance](https://link.springer.com/chapter/10.1007/978-3-7908-2380-6_8). Golosnoy, Okhrin, Ragulin, Schmid. Frontiers in Statistical Process Control
-- [Multivariate CUSUM Chart: Properties and Enhancements](https://link.springer.com/article/10.1007/s10182-009-0107-4). Golosnoy, Ragulin, Schmid. AStA Advances in Statistical Analysis.
-
-
+- [Multivariate CUSUM Chart: Properties and Enhancements](https://link.springer.com/article/10.1007/s10182-009-0107-4). Golosnoy, Ragulin, Schmid. AStA Advances in Statistical Analysis
 &nbsp;
 ## 💻 Computer Literacy
 - **Programming**: Python, R, SAS, Java, C, VB.NET, VBA, SQL
@@ -87,9 +78,7 @@ Here is my resume with project portfolio.
 - **Cloud Computing**: Azure, GCP, AWS
 - **Web Frontend**: HTML, Flask, JBoss Seam, Hibernate, XML
 - **IDE**: Spyder, PyCharm, Jupyter Notebooks, RStudio, Eclipse, Visual Studio, SQL Server Integration Services, SAS Data Integration Studio, SAS Enterprise Guide, WinEdt
-- **Infrastructure**: Git, Subversion, Jenkins, Jira, Confluence, HP ALM Quality Center
-
-
+- **Infrastructure**: Git, Subversion, Jenkins, Jira, Confluence, HP ALM Quality Cen
 &nbsp;
 ## 🌍 Languages
 - Ukrainian: fluent
@@ -97,7 +86,6 @@ Here is my resume with project portfolio.
 - English: fluent (C1 certificate)
 - Polish: fluent (B2 certificate)
 - French: basic (B1 certificate)
-
 &nbsp;
 ## 🏗 Projects
 
