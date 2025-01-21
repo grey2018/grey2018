@@ -12,7 +12,7 @@ Here is my resume with project portfolio.
 - Travel Manager. Software Development / Web / Fullstack. Python, HTML, SQL, SQLite. [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU)
 - Computation Core for Portfolio Risk Model. Software Development / Desktop / Backend. VisualBasic.NET, C#.
 - Pooling Management. Software Development / Web / Fullstack. Java, HTML, SQL, SQL Server.
-- Multivariate CUSUM Control Charts for Statistical Monitoring of Optimal Portfolio Weights. Model and Software Development / Console / Backend. C.
+- Multivariate CUSUM Charts for Statistical Monitoring of Portfolio Weights. Model and Software Development / Console / Backend. C.
 
 &nbsp;  
 ## 🛠 Work Experience
