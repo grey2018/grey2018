@@ -102,7 +102,7 @@ Here is my resume with project portfolio.
 &nbsp;
 ## 🏗 Projects
 
-|Title|Type|Product|Role|Skills|
+|Project Description|Project Type|Product Type|Role|Skills|
 |---|---|---|---|---|
 |Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Bootstrapping|
 |**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Clustering, Dim Reduction, Neural Networks|
