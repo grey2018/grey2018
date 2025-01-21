@@ -5,15 +5,14 @@ Here is my resume with project portfolio.
 
 &nbsp; 
 ## ⭐ Project Highlights
-- Behavioural Model for Committed Credit Lines. Model & Software Development. Python (pandas, seaborn).
-- Anomaly Detection in Deposit Data. Data Science. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
-- Behavioural Model for Deposits. Data Analysis. Python (statsmodels, scipy, numpy, pandas).
-- Behavioural Model for Deposits. Model & Software Development. R (dplyr, tidyverse, ggplot2).
-- Computation Core for ABS Rating Models. Software Development / Web Application / Backend. SAS.
-- Travel Manager. Web Application. Python, HTML, SQL, SQLite. [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU)
-- Computation Core for Portfolio Risk Model. Software Development / Desktop App / Backend. VisualBasic.NET
-- Pooling Management. Software Development / Web App / Full Stack. Java, HTML, SQL, SQL Server.
-- CUSUM Control Charts for Monitoring Optimal Portfolio Weights. Model and Software Development / Console App / Backend. C.
+- Anomaly Detection in Deposit Data. Data Science / Console / Backend. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
+- Behavioural Model for Deposits. Data Analysis / Console / Backend. Python (statsmodels, scipy, numpy, pandas).
+- Behavioural Model for Deposits. Model & Software Development / Console / Backend. R (dplyr, tidyverse, ggplot2).
+- Computation Core for ABS Rating Models. Software Development / Web / Backend. SAS.
+- Travel Manager. Software Development / Web / Fullstack. Python, HTML, SQL, SQLite. [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU)
+- Computation Core for Portfolio Risk Model. Software Development / Desktop / Backend. VisualBasic.NET, C#.
+- Pooling Management. Software Development / Web / Fullstack. Java, HTML, SQL, SQL Server.
+- CUSUM Control Charts for Monitoring Optimal Portfolio Weights. Model and Software Development / Console / Backend. C.
 
 &nbsp;  
 ## 🛠 Work Experience
