@@ -18,7 +18,7 @@ I am a Data & Risk Specialist with PhD Degree in Statistics and 15+ Years of Wor
 - 2009-2011: Risk Analyst, Portfolio Risk Methodology, Sparkassen Rating & Risk Systems, Berlin
 - 2006-2009: PhD Researcher, Chair of Quantitative Methods, esp. Statistics, European University Viadrina, Frankfurt (Oder)
 &nbsp;
-## 🔧 Internships
+## ⚙ Internships
 - 2008: Intern, Treasury Models & Analytics, Commerzbank, Frankfurt (Main)
 - 2007: Intern, Regulatory Models for Trading Book, Dresdner Bank, Frankfurt (Main)
 - 2005: Student Assistant, Chair of Capital Markets, EU Viadrina, Frankfurt (Oder)
