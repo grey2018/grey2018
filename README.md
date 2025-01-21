@@ -29,14 +29,14 @@ Here is my resume with project portfolio.
 - 2005: Student Assistant, Chair of Capital Markets, EU Viadrina, Frankfurt (Oder)
 - 2002: Intern, Financial Analysis, UkrSotsBank, Donetsk
 - 2001: Intern, Business Analysis, TotchMash Precision Mechanics, Donetsk
-- 1999: Intern, Metrology and Automation Systems, KoksoKhim Chemical Plant, Avdiivka
+- 1999: Intern, Metrology and Automation Systems, KoksoKhim Chemical Plant, Avdiyivka
 - 1998: Intern, Research & Development, Institute of Refrigerating Appliance, Donetsk
 
 &nbsp;  
 ## 🎓 Education
-- 2003-2006: Diploma, Business Administration (Finance, Informatics, Statistics, Total Grade 1.5 "very good"), EU Viadrina, Frankfurt (Oder) 🇩🇪
-- 1999-2002: Bachelor, Corporate Management, State University of Management, Donetsk 🇺🇦
-- 1995-1997: Junior-Specialist, Automation of Technologies, Polytechnic School, Donetsk 🇺🇦
+- 2003-2006: Diploma, Business Administration (Finance, Informatics, Statistics, Grade 1.5 "very good"), EU Viadrina, Frankfurt (Oder)
+- 1999-2002: Bachelor, Corporate Management, State University of Management, Donetsk
+- 1995-1997: Junior Specialist, Automation of Technologies, Polytechnic School, Donetsk
 
 &nbsp;
 ## 🏆 Awards
@@ -106,7 +106,7 @@ Here is my resume with project portfolio.
 |---|---|---|---|---|
 |Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Bootstrapping|
 |**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Clustering, Dim Reduction, Neural Networks|
-|Deposit Behav Model|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Geom Brownian Motion, Time Series Analysis|
+|Deposit Behav Model|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Geometric Brownian Motion, Time Series Analysis|
 |Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
 |Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse)|
@@ -114,19 +114,20 @@ Here is my resume with project portfolio.
 |Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS (data, macros)|
 |Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS (data, macros)|
 |Default Early Warnings using NLP (Text Sentiment & Analysis)|Data Science|Console App|Backend Design|R (tm, nnet)|
-|Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS (data, macros, risk)|
-|Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS (data, macros, risk)|
+|Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), Java|
 |Rating Model for Purchased Receivables|Software Dev|Web App|Design, Test, Project Mgmt|Apache Lucene|
 |Simulation Facility|Software Dev|Integration Env|Design, Test, Project Mgmt|SAS Data Integration Studio|
-|**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET, Monte-Carlo Simulation, VaR, ES|
+|Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS (data, macros, risk)|
+|Rating Model for Global Shipping|Software Dev|Web App|Design, Test, Project Mgmt|SAS (data, macros, risk), Java|
+|**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET, Monte-Carlo Simulation, VaR, Expected Shortfall|
 |Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS|
 |**Pooling Manager PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL Server|
-|Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Monte-Carlo Simulation, VaR, ES|
+|Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Fortran, Monte-Carlo Simulation, VaR, Expected Shortfall|
 |Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, MCUSUM-SPC, ARL, WED|
 |**Statistical Control of Portfolio Weights. Monte-Carlo Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, MCUSUM-SPC, ARL, WED|
 |Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Mathematica, Log-MCUSUM, Mahalanobis-CUSUM|
 |EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access, Rho, Theta|
-|Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase, Kupiec-Test, Crnkovic-Drachman Test, Derivative Valuation (Black-Scholes, Vasicek), Moneyness|
+|Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase, Moneyness, Kupiec-Test, Crnkovic-Drachman Test, Derivative Valuation (Black-Scholes, Vasicek)|
 
 <!--
 **grey2018/grey2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
