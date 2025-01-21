@@ -77,7 +77,7 @@ Here is my resume with project portfolio.
 - **Data Analytics**: Excel, Power BI, Tableau, MicroStrategy, Palantir Foundry, Watson Studio, Mathematica, Statistica
 - **Big Data**: Apache Spark, Google BigQuery, Databricks, Snowflake
 - **Cloud Computing**: Azure, GCP, AWS, IBM Cloud
-- **Web Frontend**: Python/Flask, JBoss Seam, Hibernate, CSS, JavaScript, JSON
+- **Web Frontend**: Flask, JBoss Seam, Hibernate, CSS, JavaScript, JSON
 - **Text Markup**: HTML, XML, TeX/LaTeX, Markdown, RDF/OWL, Wolfram
 - **IDE**: Spyder, PyCharm, Jupyter Notebooks, RStudio, Eclipse, Visual Studio, SQL Server Integration Services, SAS Data Integration Studio, SAS Enterprise Guide, WinEdt
 - **Infrastructure**: Git, Subversion, Jenkins, Jira, Confluence, HP ALM Quality Cen
