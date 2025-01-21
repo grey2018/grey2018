@@ -112,7 +112,7 @@ Here is my resume with project portfolio.
 |Rating Model for Global Shipping|Software Dev|Web App|Design, Test, Project Mgmt|SAS (data, macros, risk), Java, Monte-Carlo Simulation, PD, LGD, Collateral Valuation|
 |**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET, C#, Monte-Carlo Simulation, VaR, Expected Shortfall|
 |Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS, PD|
-|**Pooling Management PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL Server|
+|**Pooling Management PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL, SQL Server|
 |Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Fortran, Monte-Carlo Simulation, VaR, Expected Shortfall|
 |Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, SPC, MCUSUM, ARL, WED|
 |**Statistical Control of Portfolio Weights. Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, SPC, MCUSUM, ARL, WED, Monte-Carlo Simulation|
