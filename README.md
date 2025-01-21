@@ -109,7 +109,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |Simulation Facility|Software Dev|Integration Env|Design, Test, Project Mgmt|SAS Data Integration Studio|
 |Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), SAS Enterprise Guide, Monte-Carlo Simulation, PD|
 |Rating Model for Global Shipping|Software Dev|Web App|Design, Test, Project Mgmt|SAS (data, macros, risk), Java, Monte-Carlo Simulation, PD, LGD, Collateral Valuation|
-|**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET, C#, Visual Studio, Monte-Carlo Simulation, VaR, Expected Shortfall|
+|**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET, C#, OOP, Visual Studio, Monte-Carlo Simulation, VaR, Expected Shortfall|
 |Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS, PD|
 |**Pooling Management PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL, SQL Server, Eclipse|
 |Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Fortran, TinnR, Monte-Carlo Simulation, VaR, Expected Shortfall|
@@ -118,13 +118,13 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Ubuntu Shell, Mathematica, Wolfram, SPC, Mahalanobis-CUSUM, Log-MCUSUM, ARL, Monte-Carlo Simulation|
 |EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access, SQL, Delta, Vega, Rho, Theta|
 |Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase, Moneyness, Kupiec, Crnkovic-Drachmann, Derivative Valuation (Black-Scholes, Vasicek), Monte-Carlo Simulation|
-|Time Series Analysis |Data Analysis|Console App|Design, Backend Dev|R, ARIMA, GARCH|
+|Time Series Analysis of Financial Markets |Data Analysis|Console App|Design, Backend Dev|R, ARIMA, GARCH|
 |Value-at-Risk for Portfolios of Bonds, Stocks and Options|Software Dev|Console App|Design, Backend Dev|R, Option Valuation (Black-Scholes), Monte-Carlo Simulation|
-|Time Series Analysis for Bank of Finland|Data Analysis|Console App|Design, Backend Dev|SAS|
+|Time Series Analysis of Macroeconomic Data for Bank of Finland|Data Analysis|Console App|Design, Backend Dev|SAS|
 |Analysis Validation for DSGV|Data Analysis|Console App|Backend Dev|Mathematica|
 |Financial Computing for Portfolio Optimization|Software Dev|Desktop App|Backend Dev|VBA, Excel|
-|Object-oriented Tool|Software Dev|Console App|Backend Dev|VisualBasic.NET, Visual Studio|
-|Object-oriented Tool|Software Dev|Console App|Backend Dev|Java, JCreator|
+|Book Library Tool|Software Dev|Console App|Backend Dev|VisualBasic.NET, OOP, Visual Studio|
+|Car Store Tool|Software Dev|Console App|Backend Dev|Java, OOP, JCreator|
 |Econometric Analysis of Panel Data|Data Analysis|Console App|Backend Dev|SAS (IML)|
 |Statistical Process Monitoring with Control Charts|Data Analysis|Console App|Backend Dev|R (spc), Shewhart, EWMA, CUSUM|
 
