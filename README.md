@@ -12,6 +12,7 @@ Here is my resume with project portfolio.
 - Computation Core for Portfolio Risk Model. Software Dev / Desktop Backend. VisualBasic.NET, C#.
 - Pooling Management. Software Dev / Web Fullstack. Java, HTML, SQL, SQL Server.
 - Multivariate CUSUM Charts for Statistical Monitoring of Portfolio Weights. Model and Software Dev / Console Backend. C.
+- Backtesting of Derivative Exposure Simulation Model. Model and Software Dev / Web Backend. Java, SQL.
 &nbsp;  
 ## 🛠 Work Experience
 - 2018- now: Senior Portfolio Analyst, Liquidity Risk, UniCredit Bank (HVB), Munich
