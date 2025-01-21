@@ -98,7 +98,7 @@ Here is my resume with project portfolio.
 |Statistical Tests of GBM Assumptions|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Geometric Brownian Motion, Time Series Analysis (Stationarity, Normality, Autocorrelation)|
 |Deposit Stress Parameters|Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Rollover Rates, LST, EWI|
 |Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python, VaR, Stochastic Criticals, Continuous Floor|
-|Non-Emergency Complaints in NYC|Data Science|Console App|Backend Dev|Python (pandas, scikit-learn)|
+|Non-Emergency Complaints in NYC|Data Science|Console App|Backend Dev|Python (numpy, pandas, matplotlib, scikit-learn)|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
 |Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2), Stable & Core Volume, NSFR, SLR|
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
