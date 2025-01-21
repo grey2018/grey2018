@@ -114,7 +114,7 @@ Here is my resume with project portfolio.
 |Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS (data, macros)|
 |Default Early Warnings using NLP|Data Science|Console App|Backend Design|R (tm, nnet), API (Twitter, Google News), Text Sentiment, Text Analysis|
 |Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), Java|
-|Rating Model for Purchased Receivables|Software Dev|Web App|Design, Test, Project Mgmt|Apache Lucene|
+|Rating Model for Purchased Receivables. Customer Matching|Software Dev|Web App|Design, Test, Project Mgmt|Apache Lucene|
 |Simulation Facility|Software Dev|Integration Env|Design, Test, Project Mgmt|SAS Data Integration Studio|
 |Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS (data, macros, risk)|
 |Rating Model for Global Shipping|Software Dev|Web App|Design, Test, Project Mgmt|SAS (data, macros, risk), Java|
