@@ -43,8 +43,8 @@ Here is my resume with project portfolio.
 - Merit Scholarship by DaimlerChrysler Financial Services
 - Merit Scholarship by EKO Stahl
 - European Study Scholarship by DAAD (German Academic Exchange Service)
-- Bachelor with Distinction
-- Junior Specialist with Distinction 
+- Bachelor Degree with Distinction
+- Junior Specialist Degree with Distinction 
 
 &nbsp;
 ## 🧾 Certifications
