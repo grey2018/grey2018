@@ -5,7 +5,7 @@ Here is my resume with project portfolio.
 &nbsp; 
 ## ⭐ Highlight Projects
 - Anomaly Detection in Deposit Data. Data Science / Console Backend. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
-- Statistical Tests of GBM Assumptions. Data Analysis / Console Backend. Python (statsmodels, scipy, numpy, pandas).
+- Statistical Validation of GBM Assumptions. Data Analysis / Console Backend. Python (statsmodels, scipy, numpy, pandas).
 - Behavioural Model for Deposits. Model & Software Dev / Console Backend. R (dplyr, pipes, tidyverse, ggplot2).
 - Travel Manager. Software Dev / Web Fullstack. Python, HTML, SQL, SQLite. [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU).
 - Computation Core for ABS Rating Models. Software Dev / Web Backend. SAS (data steps, macros, SQL, DIS).
@@ -95,7 +95,7 @@ Here is my resume with project portfolio.
 |---|---|---|---|---|
 |Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Bootstrapping, VaR, LST, SLR|
 |**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Clustering, Dim Reduction, ANN|
-|Statistical Tests of GBM Assumptions|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Geometric Brownian Motion, Time Series Analysis (Stationarity, Normality, Autocorrelation)|
+|Statistical Validation of GBM Assumptions|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Geometric Brownian Motion, Time Series Analysis (Stationarity, Normality, Autocorrelation)|
 |Deposit Stress Parameters|Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Rollover Rates, LST, EWI|
 |Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python, VaR, Stochastic Criticals, Continuous Floor|
 |Non-Emergency Complaints in NYC|Data Science|Console App|Backend Dev|Python (numpy, pandas, matplotlib, scikit-learn)|
