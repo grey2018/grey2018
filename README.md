@@ -80,7 +80,7 @@ Here is my resume with project portfolio.
 - **Web Frontend**: Flask, JBoss Seam, Hibernate, CSS, JavaScript, JSON
 - **Text Markup**: HTML, XML, TeX/LaTeX, Markdown, RDF/OWL, Wolfram
 - **IDE**: Spyder, PyCharm, Jupyter Notebooks, RStudio, Eclipse, Visual Studio, SQL Server Integration Services, SAS Data Integration Studio, SAS Enterprise Guide, WinEdt
-- **Infrastructure**: Git, Subversion, Jenkins, Jira, Confluence, HP ALM Quality Cen
+- **Infrastructure**: Git, Subversion, Jenkins, Jira, Confluence, HP ALM Quality Center
 &nbsp;
 ## 🌍 Languages
 - Ukrainian: fluent
