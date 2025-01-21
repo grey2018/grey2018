@@ -122,10 +122,10 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |Value-at-Risk for Portfolios of Bonds, Stocks and Options|Software Dev|Console App|Design, Backend Dev|R, Option Valuation (Black-Scholes), Monte-Carlo Simulation|
 |Time Series Analysis of Macroeconomic Data for Bank of Finland|Data Analysis|Console App|Design, Backend Dev|SAS|
 |Analysis Validation for DSGV|Data Analysis|Console App|Backend Dev|Mathematica|
-|Financial Computing for Portfolio Optimization|Software Dev|Desktop App|Backend Dev|VBA, Excel|
+|Financial Computing for Portfolio Optimization|Software Dev|Desktop App|Backend Dev|VBA, Excel, CAPM, Black-Scholes|
 |Book Library Tool|Software Dev|Console App|Backend Dev|VisualBasic.NET, OOP, Visual Studio|
 |Car Store Tool|Software Dev|Console App|Backend Dev|Java, OOP, JCreator|
-|Econometric Analysis of Panel Data|Data Analysis|Console App|Backend Dev|SAS (IML)|
+|Econometric Analysis of Panel Data|Data Analysis|Console App|Backend Dev|SAS (IML), OLS/GLS Regression|
 |Statistical Process Monitoring with Control Charts|Data Analysis|Console App|Backend Dev|R (spc), Shewhart, EWMA, CUSUM|
 
 
