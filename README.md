@@ -33,7 +33,7 @@ Here is my resume with project portfolio.
 
 &nbsp;  
 ## 🎓 Education
-- 2003-2006: Diploma, Business Administration (Finance, Informatics, Statistics), Grade 1.5 "very good", EU Viadrina, Frankfurt (Oder)
+- 2003-2006: Diploma, Business Administration (Finance, Informatics, Statistics), Grade 1.5 (very good), EU Viadrina, Frankfurt (Oder)
 - 1999-2002: Bachelor, Corporate Management, State University of Management, Donetsk
 - 1995-1997: Junior Specialist, Automation of Technologies, Polytechnic School, Donetsk
 
