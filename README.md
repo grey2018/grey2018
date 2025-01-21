@@ -78,7 +78,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - **Cloud Computing**: Azure, GCP, AWS, IBM Cloud
 - **Web Frontend**: Flask, JBoss Seam, Hibernate, CSS, JavaScript
 - **Text Markup**: HTML, XML, TeX/LaTeX, Markdown, OWL, Wolfram
-- **ERP**: infor:COM, SAP R/3
+- **ERP**: infor COM, SAP R/3
 - **IDE**: Spyder, PyCharm, Jupyter Notebooks, RStudio, TinnR, Eclipse, JCreator, Visual Studio, SQL Server Integration Services, SAS Data Integration Studio, SAS Enterprise Guide, WinEdt, Notepad++, Shell
 - **Infrastructure**: Git, Subversion, Jenkins, Jira, Confluence, HP ALM Quality Center, Docker, PuTTY
 &nbsp;
