@@ -113,20 +113,20 @@ Here is my resume with project portfolio.
 |Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS (data, macros)|
 |Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS (data, macros)|
 |Default Early Warnings using NLP|Data Science|Console App|Backend Design|R (tm, nnet), API (Twitter, Google News), Text Sentiment, Text Analysis|
-|Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), Java|
+|Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), Java, Monte-Carlo Simulation|
 |Rating Model for Purchased Receivables. Customer Matching|Software Dev|Web App|Design, Test, Project Mgmt|Apache Lucene|
 |Simulation Facility|Software Dev|Integration Env|Design, Test, Project Mgmt|SAS Data Integration Studio|
-|Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS (data, macros, risk)|
-|Rating Model for Global Shipping|Software Dev|Web App|Design, Test, Project Mgmt|SAS (data, macros, risk), Java|
+|Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), Monte-Carlo Simulation|
+|Rating Model for Global Shipping|Software Dev|Web App|Design, Test, Project Mgmt|SAS (data, macros, risk), Java, Monte-Carlo Simulation, Collateral Valuation|
 |**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET, C#, Monte-Carlo Simulation, VaR, Expected Shortfall|
 |Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS|
 |**Pooling Manager PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL Server|
 |Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Fortran, Monte-Carlo Simulation, VaR, Expected Shortfall|
 |Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, MCUSUM-SPC, ARL, WED|
 |**Statistical Control of Portfolio Weights. Monte-Carlo Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, MCUSUM-SPC, ARL, WED|
-|Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Mathematica, Log-MCUSUM, Mahalanobis-CUSUM|
+|Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Mathematica, Log-MCUSUM, Mahalanobis-CUSUM, Monte-Carlo Simulation|
 |EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access, SQL, Rho, Theta|
-|Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase, Moneyness, Kupiec-Test, Crnkovic-Drachman Test, Derivative Valuation (Black-Scholes, Vasicek)|
+|Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase, Moneyness, Kupiec-Test, Crnkovic-Drachman Test, Derivative Valuation (Black-Scholes, Vasicek), Monte-Carlo Simulation|
 
 <!--
 **grey2018/grey2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
