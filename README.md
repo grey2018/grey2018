@@ -77,6 +77,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - **Cloud Computing**: Azure, GCP, AWS, IBM Cloud
 - **Web Frontend**: Flask, JBoss Seam, Hibernate, CSS, JavaScript, JSON
 - **Text Markup**: HTML, XML, TeX/LaTeX, Markdown, RDF/OWL, Wolfram
+- **ERP**: infor:COM, SAP R/3
 - **IDE**: Spyder, PyCharm, Jupyter Notebooks, RStudio, TinnR, Eclipse, JCreator, Visual Studio, SQL Server Integration Services, SAS Data Integration Studio, SAS Enterprise Guide, WinEdt, Notepad++, Shell
 - **Infrastructure**: Git, Subversion, Jenkins, Jira, Confluence, HP ALM Quality Center, Docker, PuTTY
 &nbsp;
@@ -98,7 +99,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |Deposit Stress Parameters|Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Spyder, Rollover Rates, LST, EWI|
 |Non-Emergency Complaints in NYC|Data Science|Console App|Backend Dev|Python (numpy, pandas, matplotlib, scikit-learn)|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
-|Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2), RStudio, Geometric Brownian Motion, OLS Regression, Stable & Core Volume, NSFR, SLR|
+|Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2), RStudio, Geometric Brownian Motion, Regression, Stable & Core Volume, NSFR, SLR|
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
 |Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
 |Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
@@ -117,6 +118,16 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Ubuntu Shell, Mathematica, Wolfram, SPC, Mahalanobis-CUSUM, Log-MCUSUM, ARL, Monte-Carlo Simulation|
 |EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access, SQL, Delta, Vega, Rho, Theta|
 |Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase, Moneyness, Kupiec, Crnkovic-Drachmann, Derivative Valuation (Black-Scholes, Vasicek), Monte-Carlo Simulation|
+|Time Series Analysis |Data Analysis|Console App|Design, Backend Dev|R, ARIMA, GARCH|
+|Value-at-Risk for Portfolios of Bonds, Stocks and Options|Software Dev|Console App|Design, Backend Dev|R, Option Valuation (Black-Scholes), Monte-Carlo Simulation|
+|Time Series Analysis for Bank of Finland|Data Analysis|Console App|Design, Backend Dev|SAS|
+|Analysis Validation for DSGV|Data Analysis|Console App|Backend Dev|Mathematica|
+|Financial Computing for Portfolio Optimization|Software Dev|Desktop App|Backend Dev|VBA, Excel|
+|Object-oriented Tool|Software Dev|Console App|Backend Dev|VisualBasic.NET, Visual Studio|
+|Object-oriented Tool|Software Dev|Console App|Backend Dev|Java, JCreator|
+|Econometric Analysis of Panel Data|Data Analysis|Console App|Backend Dev|SAS (IML)|
+|Statistical Process Monitoring with Control Charts|Data Analysis|Console App|Backend Dev|R (spc), Shewhart, EWMA, CUSUM|
+
 
 <!--
 **grey2018/grey2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
