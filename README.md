@@ -112,7 +112,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS, PD|
 |**Pooling Management PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL, SQL Server|
 |Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Fortran, Monte-Carlo Simulation, VaR, Expected Shortfall|
-|Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, SPC, MCUSUM, ARL, WED|
+|Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, SPC, MCUSUM, ARL, WED, Bootstrapping|
 |**Statistical Control of Portfolio Weights. Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, SPC, MCUSUM, ARL, WED, Monte-Carlo Simulation|
 |Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Mathematica, Wolfram, SPC, Mahalanobis-CUSUM, Log-MCUSUM, ARL, Monte-Carlo Simulation|
 |EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access, SQL, Delta, Vega, Rho, Theta|
