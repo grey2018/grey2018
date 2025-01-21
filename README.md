@@ -103,12 +103,13 @@ Here is my resume with project portfolio.
 
 |Project Description|Project Type|Product Type|Role|Skills|
 |---|---|---|---|---|
-|Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Bootstrapping, VaR|
+|Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Bootstrapping, VaR, LST, SLR|
 |**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Clustering, Dim Reduction, ANN|
-|Deposit Behav Model|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Geometric Brownian Motion, Time Series Analysis|
-|Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python, VaR|
+|Deposit Behav Model|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Geometric Brownian Motion, Time Series Analysis (Stationarity, Normality, Autocorrelation)|
+|Deposit Stress Parameters|Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Rollover Rates, LST, EWI|
+|Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python, VaR, Stochastic Criticals, Continuous Floor|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
-|Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2)|
+|Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2), Stable & Core Volume, NSFR, SLR|
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
 |Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
 |Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
