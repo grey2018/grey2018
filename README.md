@@ -77,7 +77,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - **Cloud Computing**: Azure, GCP, AWS, IBM Cloud
 - **Web Frontend**: Flask, JBoss Seam, Hibernate, CSS, JavaScript, JSON
 - **Text Markup**: HTML, XML, TeX/LaTeX, Markdown, RDF/OWL, Wolfram
-- **IDE**: Spyder, PyCharm, Jupyter Notebooks, RStudio, TinnR, Eclipse, JCreator, Visual Studio, SQL Server Integration Services, SAS Data Integration Studio, SAS Enterprise Guide, WinEdt, Notepad++, Linux Ubuntu Shell
+- **IDE**: Spyder, PyCharm, Jupyter Notebooks, RStudio, TinnR, Eclipse, JCreator, Visual Studio, SQL Server Integration Services, SAS Data Integration Studio, SAS Enterprise Guide, WinEdt, Notepad++, Shell
 - **Infrastructure**: Git, Subversion, Jenkins, Jira, Confluence, HP ALM Quality Center, Docker, PuTTY
 &nbsp;
 ## 🌍 Languages
@@ -91,14 +91,14 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 
 |Project Description|Project Type|Product Type|Role|Skills|
 |---|---|---|---|---|
-|Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Bootstrapping, VaR, LST, SLR|
-|**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Clustering, Dim Reduction, ANN|
-|Statistical Validation of GBM Assumptions|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Geometric Brownian Motion, Time Series Analysis (Stationarity, Normality, Autocorrelation)|
-|Deposit Stress Parameters|Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Rollover Rates, LST, EWI|
-|Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python, VaR, Stochastic Criticals, Continuous Floor|
+|Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Spyder, Bootstrapping, VaR, LST, SLR|
+|Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python, Spyder, VaR, Stochastic Criticals, Continuous Floor|
+|**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Spyder, Clustering, Dim Reduction, ANN|
+|Statistical Validation of Deposit GBM Process|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Spyder, Geometric Brownian Motion, Time Series Analysis (Stationarity, Normality, Autocorrelation)|
+|Deposit Stress Parameters|Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Spyder, Rollover Rates, LST, EWI|
 |Non-Emergency Complaints in NYC|Data Science|Console App|Backend Dev|Python (numpy, pandas, matplotlib, scikit-learn)|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
-|Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2), Stable & Core Volume, NSFR, SLR|
+|Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2), RStudio, Stable & Core Volume, NSFR, SLR|
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
 |Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
 |Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
@@ -106,17 +106,17 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), Java, Monte-Carlo Simulation, PD|
 |Rating Model for Purchased Receivables. Customer Matching|Software Dev|Web App|Design, Test, Project Mgmt|Apache Lucene|
 |Simulation Facility|Software Dev|Integration Env|Design, Test, Project Mgmt|SAS Data Integration Studio|
-|Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), Monte-Carlo Simulation, PD|
+|Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), SAS Enterprise Guide, Monte-Carlo Simulation, PD|
 |Rating Model for Global Shipping|Software Dev|Web App|Design, Test, Project Mgmt|SAS (data, macros, risk), Java, Monte-Carlo Simulation, PD, LGD, Collateral Valuation|
-|**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET, C#, Monte-Carlo Simulation, VaR, Expected Shortfall|
+|**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET, C#, Visual Studio, Monte-Carlo Simulation, VaR, Expected Shortfall|
 |Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS, PD|
-|**Pooling Management PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL, SQL Server|
-|Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Fortran, Monte-Carlo Simulation, VaR, Expected Shortfall|
-|Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, SPC, MCUSUM, ARL, WED, Bootstrapping|
-|**Statistical Control of Portfolio Weights. Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, SPC, MCUSUM, ARL, WED, Monte-Carlo Simulation|
-|Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Mathematica, Wolfram, SPC, Mahalanobis-CUSUM, Log-MCUSUM, ARL, Monte-Carlo Simulation|
+|**Pooling Management PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL, SQL Server, Eclipse|
+|Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Fortran, TinnR, Monte-Carlo Simulation, VaR, Expected Shortfall|
+|Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, Ubuntu Shell, GMVP, SPC, MCUSUM, ARL, WED, Bootstrapping|
+|**Statistical Control of Portfolio Weights. Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, Ubuntu Shell, GMVP, SPC, MCUSUM, ARL, WED, Monte-Carlo Simulation|
+|Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Ubuntu Shell, Mathematica, Wolfram, SPC, Mahalanobis-CUSUM, Log-MCUSUM, ARL, Monte-Carlo Simulation|
 |EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access, SQL, Delta, Vega, Rho, Theta|
-|Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase, Moneyness, Kupiec-Test, Crnkovic-Drachman Test, Derivative Valuation (Black-Scholes, Vasicek), Monte-Carlo Simulation|
+|Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase, Moneyness, Kupiec, Crnkovic-Drachmann, Derivative Valuation (Black-Scholes, Vasicek), Monte-Carlo Simulation|
 
 <!--
 **grey2018/grey2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
