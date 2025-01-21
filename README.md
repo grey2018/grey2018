@@ -110,16 +110,16 @@ Here is my resume with project portfolio.
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
 |Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2)|
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
-|Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS (data, macros)|
-|Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS (data, macros)|
+|Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
+|Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
 |Default Early Warnings using NLP|Data Science|Console App|Backend Design|R (tm, nnet), API (Twitter, Google News), Text Sentiment, Text Analysis|
-|Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), Java, Monte-Carlo Simulation|
+|Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), Java, Monte-Carlo Simulation, PD|
 |Rating Model for Purchased Receivables. Customer Matching|Software Dev|Web App|Design, Test, Project Mgmt|Apache Lucene|
 |Simulation Facility|Software Dev|Integration Env|Design, Test, Project Mgmt|SAS Data Integration Studio|
-|Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), Monte-Carlo Simulation|
-|Rating Model for Global Shipping|Software Dev|Web App|Design, Test, Project Mgmt|SAS (data, macros, risk), Java, Monte-Carlo Simulation, Collateral Valuation|
+|Rating Model for Commodity Trade|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), Monte-Carlo Simulation, PD|
+|Rating Model for Global Shipping|Software Dev|Web App|Design, Test, Project Mgmt|SAS (data, macros, risk), Java, Monte-Carlo Simulation, PD, LGD, Collateral Valuation|
 |**Portfolio Risk Model CPV P&L-oriented**|Software Dev|Desktop App|Backend Dev|VisualBasic.NET, C#, Monte-Carlo Simulation, VaR, Expected Shortfall|
-|Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS|
+|Rating Transition Probabilities|Software Dev|Desktop App|Backend Dev|VBA, SSIS, PD|
 |**Pooling Manager PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL Server|
 |Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Fortran, Monte-Carlo Simulation, VaR, Expected Shortfall|
 |Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, MCUSUM-SPC, ARL, WED|
