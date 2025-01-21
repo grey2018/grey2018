@@ -52,7 +52,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Intro to MongoDB, MongoDB via Coursera
 - Linked Data Engineering, Hasso Plattner Institute via OpenHPI
 - Classical Machine Learning for Financial Engineering, New York NYU via edX
-- **Big Data Analytics using Spark, UC Sand Diego** via edX
+- **Big Data Analytics using Spark, UC San Diego** via edX
 - **Machine Learning with Python, MIT** via edX
 - Foundations of Data Science, UC Berkeley via edX
 - Python Data Science, IBM via edX
