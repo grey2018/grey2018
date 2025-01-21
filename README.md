@@ -5,14 +5,14 @@ Here is my resume with project portfolio.
 
 &nbsp; 
 ## ⭐ Highlight Projects
-- Anomaly Detection in Deposit Data. Data Science / Console / Backend. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
-- Behavioural Model for Deposits. Data Analysis / Console / Backend. Python (statsmodels, scipy, numpy, pandas).
-- Behavioural Model for Deposits. Model & Software Development / Console / Backend. R (dplyr, tidyverse, ggplot2).
-- Computation Core for ABS Rating Models. Software Development / Web / Backend. SAS.
-- Travel Manager. Software Development / Web / Fullstack. Python, HTML, SQL, SQLite. [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU)
-- Computation Core for Portfolio Risk Model. Software Development / Desktop / Backend. VisualBasic.NET, C#.
-- Pooling Management. Software Development / Web / Fullstack. Java, HTML, SQL, SQL Server.
-- Multivariate CUSUM Charts for Statistical Monitoring of Portfolio Weights. Model and Software Development / Console / Backend. C.
+- Anomaly Detection in Deposit Data. Data Science / Console Backend. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
+- Behavioural Model for Deposits. Data Analysis / Console Backend. Python (statsmodels, scipy, numpy, pandas).
+- Behavioural Model for Deposits. Model & Software Dev / Console Backend. R (dplyr, pipes, tidyverse, ggplot2).
+- Computation Core for ABS Rating Models. Software Dev / Web Backend. SAS.
+- Travel Manager. Software Dev / Web Fullstack. Python, HTML, SQL, SQLite. [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU)
+- Computation Core for Portfolio Risk Model. Software Dev / Desktop Backend. VisualBasic.NET, C#.
+- Pooling Management. Software Dev / Web Fullstack. Java, HTML, SQL, SQL Server.
+- Multivariate CUSUM Charts for Statistical Monitoring of Portfolio Weights. Model and Software Dev / Console Backend. C.
 
 &nbsp;  
 ## 🛠 Work Experience
@@ -108,7 +108,7 @@ Here is my resume with project portfolio.
 |Deposit Behav Model|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Geometric Brownian Motion, Time Series Analysis|
 |Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python, VaR|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
-|Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse)|
+|Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2)|
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
 |Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS (data, macros)|
 |Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS (data, macros)|
