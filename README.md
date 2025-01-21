@@ -103,16 +103,16 @@ Here is my resume with project portfolio.
 
 |Project Description|Project Type|Product Type|Role|Skills|
 |---|---|---|---|---|
-|Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Bootstrapping|
+|Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Bootstrapping, VaR|
 |**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Clustering, Dim Reduction, Neural Networks|
 |Deposit Behav Model|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Geometric Brownian Motion, Time Series Analysis|
-|Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python|
+|Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python, VaR|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
 |Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse)|
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
 |Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS (data, macros)|
 |Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS (data, macros)|
-|Default Early Warnings using NLP (Text Sentiment & Analysis)|Data Science|Console App|Backend Design|R (tm, nnet)|
+|Default Early Warnings using NLP|Data Science|Console App|Backend Design|R (tm, nnet), API (Twitter, Google News), Text Sentiment, Text Analysis|
 |Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), Java|
 |Rating Model for Purchased Receivables|Software Dev|Web App|Design, Test, Project Mgmt|Apache Lucene|
 |Simulation Facility|Software Dev|Integration Env|Design, Test, Project Mgmt|SAS Data Integration Studio|
@@ -125,7 +125,7 @@ Here is my resume with project portfolio.
 |Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, MCUSUM-SPC, ARL, WED|
 |**Statistical Control of Portfolio Weights. Monte-Carlo Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, GMVP, MCUSUM-SPC, ARL, WED|
 |Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Mathematica, Log-MCUSUM, Mahalanobis-CUSUM|
-|EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access, Rho, Theta|
+|EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access, SQL, Rho, Theta|
 |Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase, Moneyness, Kupiec-Test, Crnkovic-Drachman Test, Derivative Valuation (Black-Scholes, Vasicek)|
 
 <!--
