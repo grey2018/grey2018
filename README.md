@@ -3,7 +3,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 &nbsp; 
 ## ⭐ Highlight Projects
 - Anomaly Detection in Deposit Data. Data Science / Console Backend. Python (scikit-learn, xgboost, Keras, matplotlib, seaborn).
-- Statistical Validation of Deposit GBM Process. Data Analysis / Console Backend. Python (statsmodels, scipy, numpy, pandas).
+- Statistical Validation of Behavioural GBM Process. Data Analysis / Console Backend. Python (statsmodels, scipy, numpy, pandas).
 - Behavioural Model for Deposits. Model & Software Dev / Console Backend. R (dplyr, maggritr pipes, tidyverse, ggplot2).
 - Travel Manager. Software Dev / Web Fullstack. Python, HTML, SQL, SQLite. [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU).
 - Computation Cores for Rating Models. Software Dev / Web Backend. SAS (DATA steps, macros, SQL, RISK, DIS).
@@ -97,7 +97,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |Credit Lines Behav Model|Model Dev, Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Spyder, Bootstrapping, Forecasting, VaR, LST, SLR|
 |Intraday Liquidity Risk Model|Software Dev|Console App|Backend Dev|Python, Spyder, Forecasting, VaR, Stochastic Criticals, Continuous Floor|
 |**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Spyder, Clustering, Dim Reduction, ANN|
-|Statistical Validation of Deposit GBM Process|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Spyder, Geometric Brownian Motion, Time Series Analysis (Stationarity, Normality, Autocorrelation)|
+|Statistical Validation of Behavioural GBM Process|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Spyder, Geometric Brownian Motion, Time Series Analysis (Stationarity, Normality, Autocorrelation)|
 |Deposit Stress Parameters|Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Spyder, Rollover Rates, LST, EWI|
 |Non-Emergency Complaints in NYC|Data Science|Console App|Backend Dev|Python (numpy, pandas, matplotlib, scikit-learn)|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
