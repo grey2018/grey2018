@@ -41,6 +41,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Junior Specialist Degree with Distinction 
 &nbsp;
 ## 🧾 Certifications
+- Snowflake for Devs, Data Scientists and Data Engineers, Snowflake via Coursera
 - Power BI Data Analyst, Microsoft via Coursera
 - **Azure Data Science Associate, Microsoft** via Coursera
 - Azure Artificial Intelligence Fundamentals, Microsoft via Coursera
