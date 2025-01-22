@@ -47,7 +47,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Azure Artificial Intelligence Fundamentals, Microsoft via Coursera (5)
 - Azure Data Fundamentals, Microsoft via Coursera (5)
 - Azure Cloud Fundamentals, Microsoft via Coursera (4)
-- AWS Fundamentals, AWS via Coursera (3)
+- AWS Cloud Fundamentals, AWS via Coursera (3)
 - **Data Engineering, Big Data and Machine Learning on Google Cloud, Google** via Coursera (5)
 - Containers with Docker, Kubernetes and OpenShift, IBM via Coursera
 - Intro to MongoDB, MongoDB via Coursera
