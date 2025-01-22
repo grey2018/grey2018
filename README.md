@@ -22,15 +22,15 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - 2008: Intern, Treasury Models & Analytics, Commerzbank, Frankfurt (Main)
 - 2007: Intern, Regulatory Models for Trading Book, Dresdner Bank, Frankfurt (Main)
 - 2005: Student Assistant, Chair of Capital Markets, EU Viadrina, Frankfurt (Oder)
-- 2002: Intern, Financial Analysis, UkrSotsBank, Donetsk
-- 2001: Intern, Business Analysis, TotchMash Precision Mechanics, Donetsk
-- 1999: Intern, Metrology and Automation Systems, KoksoKhim Chemical Plant, Avdiyivka
-- 1998: Intern, Research & Development, Institute of Refrigerating Appliance, Donetsk
+- 2002: Intern, Financial Analysis, UkrSotsBank, Donetsk, UA
+- 2001: Intern, Business Analysis, TotchMash Precision Mechanics, Donetsk, UA
+- 1999: Intern, Metrology and Automation Systems, KoksoKhim Chemical Plant, Avdiyivka, UA
+- 1998: Intern, Research & Development, Institute of Refrigerating Appliance, Donetsk, UA
 &nbsp;  
 ## 🎓 Education
-- 2003-2006: Diploma, Business Administration (Finance, Informatics, Statistics), Grade 1.5 (very good), EU Viadrina, Frankfurt (Oder)
-- 1999-2002: Bachelor, Corporate Management, State University of Management, Donetsk
-- 1995-1997: Junior Specialist, Automation of Technologies, Polytechnic School, Donetsk
+- 2003-2006: Diploma, Business Administration (Finance, Informatics, Statistics), Grade 1.5 (very good), EU Viadrina, Frankfurt (Oder), DE
+- 1999-2002: Bachelor, Corporate Management, State University of Management, Donetsk, UA
+- 1995-1997: Junior Specialist, Automation of Technologies, Polytechnic School, Donetsk, UA
 &nbsp;
 ## 🏆 Awards
 - PhD Research Scholarship by Deutsche Bank Foundation
