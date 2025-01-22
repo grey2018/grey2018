@@ -74,7 +74,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - **R Libs**: dplyr, maggritr, ggplot2, tidyverse, data.table, tm, nnet, spc
 - **RDBMS**: SQL Server, MySQL, SQLite, Oracle, Teradata, Sybase, Access
 - **NoSQL**: MongoDB, JSON, RDF
-- **Data Analytics**: Power BI, Tableau, MicroStrategy, Palantir Foundry, Watson Studio, Wolfram Mathematica, TIBCO Statistica, Excel, OpenOffice/Calc
+- **Data Analytics**: Power BI, Tableau, MicroStrategy, Palantir Foundry, Watson Studio, Wolfram Mathematica, TIBCO Statistica, Excel
 - **Big Data**: Apache Spark, Google BigQuery, Databricks, Snowflake
 - **Cloud Computing**: MS Azure, GCP, AWS, IBM Cloud
 - **Web Frontend**: Flask, JBoss Seam, Hibernate, CSS, JavaScript
