@@ -18,7 +18,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - 2009-2011: Risk Analyst, Portfolio Risk Methodology, Sparkassen Rating & Risk Systems, Berlin
 - 2006-2009: PhD Researcher, Chair of Quantitative Methods, esp. Statistics, European University Viadrina, Frankfurt (Oder)
 &nbsp;
-## ⚙️ Internships
+## 🔨 Internships
 - 2008: Intern, Treasury Models & Analytics, Commerzbank, Frankfurt (Main)
 - 2007: Intern, Regulatory Models for Trading Book, Dresdner Bank, Frankfurt (Main)
 - 2005: Student Assistant, Chair of Capital Markets, EU Viadrina, Frankfurt (Oder)
@@ -42,21 +42,21 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 &nbsp;
 ## 🧾 Certifications
 - Snowflake for Devs, Data Scientists and Data Engineers, Snowflake via Coursera
-- Power BI Data Analyst, Microsoft via Coursera
-- **Azure Data Science Associate, Microsoft** via Coursera
-- Azure Artificial Intelligence Fundamentals, Microsoft via Coursera
-- Azure Data Fundamentals, Microsoft via Coursera
-- Azure Cloud Fundamentals, Microsoft via Coursera
-- AWS Fundamentals, AWS via Coursera
-- **Data Engineering, Big Data and Machine Learning on Google Cloud, Google** via Coursera
+- Power BI Data Analyst, Microsoft via Coursera (8)
+- **Azure Data Science Associate, Microsoft** via Coursera (5)
+- Azure Artificial Intelligence Fundamentals, Microsoft via Coursera (5)
+- Azure Data Fundamentals, Microsoft via Coursera (5)
+- Azure Cloud Fundamentals, Microsoft via Coursera (4)
+- AWS Fundamentals, AWS via Coursera (3)
+- **Data Engineering, Big Data and Machine Learning on Google Cloud, Google** via Coursera (5)
 - Containers with Docker, Kubernetes and OpenShift, IBM via Coursera
 - Intro to MongoDB, MongoDB via Coursera
 - Linked Data Engineering, Hasso Plattner Institute via OpenHPI
 - Classical Machine Learning for Financial Engineering, New York NYU via edX
 - **Big Data Analytics using Spark, UC San Diego** via edX
 - **Machine Learning with Python, MIT** via edX
-- Foundations of Data Science, UC Berkeley via edX
-- Python Data Science, IBM via edX
+- Foundations of Data Science, UC Berkeley via edX (3)
+- Python Data Science, IBM via edX (5)
 - **CS50 Intro to Computer Science, Harvard** via edX
 - **PMI Project Management, Frankfurt School of Finance & Management**
 - SAS Advances, msgGillardon, Munich
