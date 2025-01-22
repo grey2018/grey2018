@@ -41,7 +41,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Junior Specialist Degree with Distinction 
 &nbsp;
 ## 🧾 Certifications
-- Power BI Analyst, Microsoft via Coursera
+- Power BI Data Analyst, Microsoft via Coursera
 - **Azure Data Science Associate, Microsoft** via Coursera
 - Azure Artificial Intelligence Fundamentals, Microsoft via Coursera
 - Azure Data Fundamentals, Microsoft via Coursera
@@ -70,12 +70,12 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 ## 💻 Computer Literacy
 - **Programming**: Python, R, SAS, Java, C, VB.NET, VBA, SQL
 - **Python Libs**: numpy, scipy, statsmodels, pandas, scikit-learn, xgboost, Keras, PyTorch, matplotlib, seaborn
-- **R Libs**: dplyr, tidyverse, maggritr, ggplot2, data.table, tm, nnet, spc
-- **RDBMS**: Access, SQL Server, MySQL, SQLite, Oracle, Teradata, Sybase
+- **R Libs**: dplyr, maggritr, ggplot2, tidyverse, data.table, tm, nnet, spc
+- **RDBMS**: SQL Server, MySQL, SQLite, Oracle, Teradata, Sybase, Access
 - **NoSQL**: MongoDB, JSON, RDF
-- **Data Analytics**: Power BI, Tableau, MicroStrategy, Palantir Foundry, Watson Studio, Mathematica, Statistica, Excel, OpenOffice/Calc
+- **Data Analytics**: Power BI, Tableau, MicroStrategy, Palantir Foundry, Watson Studio, Wolfram Mathematica, TIBCO Statistica, Excel, OpenOffice/Calc
 - **Big Data**: Apache Spark, Google BigQuery, Databricks, Snowflake
-- **Cloud Computing**: Azure, GCP, AWS, IBM Cloud
+- **Cloud Computing**: MS Azure, GCP, AWS, IBM Cloud
 - **Web Frontend**: Flask, JBoss Seam, Hibernate, CSS, JavaScript
 - **Text Markup**: HTML, XML, TeX/LaTeX, Markdown, OWL, Wolfram
 - **ERP**: infor COM, SAP R/3
