@@ -116,8 +116,8 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |**Pooling Management PuMa**|Software DevOps|Web App|Fullstack Dev|Java, Seam, HTML, SQL, SQL Server, Eclipse|
 |Portfolio Risk Model CPV NPV-oriented|Software Dev|Console App|Backend Dev|R, Fortran, TinnR, Forecasting, Monte-Carlo Simulation, VaR, Expected Shortfall|
 |Statistical Control of Portfolio Weights. Empirical Study|Model Dev, Software Dev|Console App|Backend Dev|C, Ubuntu Shell, GMVP, SPC, MCUSUM, ARL, WED, Bootstrapping|
-|**Statistical Control of Portfolio Weights. Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, Ubuntu Shell, GMVP, SPC, MCUSUM, ARL, WED, Monte-Carlo Simulation|
-|Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Ubuntu Shell, Mathematica, Wolfram, SPC, Mahalanobis-CUSUM, Log-MCUSUM, ARL, Monte-Carlo Simulation|
+|**Statistical Control of Portfolio Weights. Simulation Study**|Model Dev, Software Dev|Console App|Backend Dev|C, Ubuntu Shell, GMVP, SPC, MCUSUM, ARL, WED, Numerical Optimization, Regula Falsi, Monte-Carlo Simulation|
+|Multivariate CUSUM Chart Enhancements|Model Dev, Software Dev|Console App|Backend Dev|C, Ubuntu Shell, Mathematica, Wolfram, SPC, Mahalanobis-CUSUM, Log-MCUSUM, ARL, Monte-Carlo Simulation, Numerical Approximation|
 |EuroHypo P&L Attribution Reporting|Software Dev|Desktop App|Backend Dev|VBA, Access, SQL, Delta, Vega, Rho, Theta|
 |Backtesting of Counterparty Risk Model|Software Dev|Web App|Design, Backend Dev|Java, SQL, Sybase, Moneyness, Kupiec, Crnkovic-Drachmann, Derivative Valuation (Black-Scholes, Vasicek), Monte-Carlo Simulation|
 |Time Series Analysis of Financial Markets |Data Analysis|Console App|Design, Backend Dev|R, ARIMA, GARCH|
