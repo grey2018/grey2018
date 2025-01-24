@@ -79,9 +79,11 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - **NoSQL**: MongoDB, JSON, RDF
 - **Web Frontend**: Flask, JBoss Seam, Hibernate, CSS, JavaScript
 - **Text Markup**: HTML, XML, TeX/LaTeX, Markdown, OWL, Wolfram
-- **ERP**: infor COM, SAP R/3
 - **IDE**: Spyder, PyCharm, Jupyter Notebooks, RStudio, TinnR, Eclipse, JCreator, Visual Studio, SQL Server Integration Services, SAS Data Integration Studio, SAS Enterprise Guide, WinEdt, Notepad++, Shell
 - **Infrastructure**: Git, Subversion, Jenkins, Jira, Confluence, HP ALM Quality Center, Docker, PuTTY
+- **Office/Projects**: MS Office, Open Office, Lotus Notes, MS Visio, MS Project
+- **ERP**: infor COM, SAP R/3
+- **Banking**: TAS Aquarius, SLS (Sopra Steria Liquidity Suite), ILIM (Intraday Liquidity Management), ALM Pro/Ermas, Finance & Risk Datawarehouse, CLC (Credit Lines & Collaterals), ARAMIS (Address Risk Management Information System), TRX (Transaction Rating Platform), KRIBS, CPV (Creidt Portfolio View), Summit, Fermat, NEXUS (Numerical Exposure Simulator)
 &nbsp;
 ## 🌍 Languages
 - Ukrainian: fluent
