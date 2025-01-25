@@ -72,14 +72,14 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 ## 💻 Computer Literacy
 - **Programming**: Python, R, SAS, Java, C, VB.NET, VBA, SQL
 - **Python Libs**: numpy, scipy, statsmodels, pandas, scikit-learn, xgboost, Keras, PyTorch, matplotlib, seaborn
-- **R Libs**: dplyr, maggritr, ggplot2, tidyverse, data.table, tm, nnet, spc
-- **Data Analytics**: Power BI, Tableau, MicroStrategy, Palantir Foundry, Watson Studio, Wolfram Mathematica, TIBCO Statistica, Excel
-- **Big Data**: Apache Spark, Google BigQuery, Databricks, Snowflake
+- **R Libs**: dplyr, maggritr (pipes), ggplot2, tidyverse, data.table, tm, nnet, spc
+- **Data Analytics**: Power BI, Tableau, MicroStrategy, Palantir Foundry, Looker Studio, Watson Studio, Wolfram Mathematica, TIBCO Statistica, Excel
+- **Big Data**: Apache Spark (PySpark, MLlib), Google BigQuery, Databricks, Snowflake
 - **Cloud Computing**: MS Azure, GCP, AWS, IBM Cloud
 - **RDBMS**: SQL Server, MySQL, SQLite, Oracle, Teradata, Sybase, Access
-- **NoSQL**: MongoDB, JSON, RDF
+- **NoSQL**: MongoDB, JSON, RDF (SPARQL, OWL)
 - **Web Frontend**: Flask, JBoss Seam, Hibernate, CSS, JavaScript
-- **Text Markup**: HTML, XML, TeX/LaTeX, Markdown, OWL, Wolfram
+- **Text Markup**: HTML, XML, TeX/LaTeX, Markdown, Wolfram
 - **IDE**: Spyder, PyCharm, Jupyter Notebooks, RStudio, TinnR, Eclipse, JCreator, Visual Studio, SQL Server Integration Services, SAS Data Integration Studio, SAS Enterprise Guide, WinEdt, Notepad++, Shell
 - **Infrastructure**: Git, Subversion, Jenkins, Jira, Confluence, HP ALM Quality Center, Docker, PuTTY
 - **Office/Project**: MS Office, Apache OpenOffice, HCL Notes (Lotus Notes), MS Visio, MS Project
