@@ -79,7 +79,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - **Big Data**: Apache Spark (PySpark, MLlib), Google BigQuery, Databricks, Snowflake
 - **Cloud Computing**: MS Azure, GCP, AWS, IBM Cloud
 - **RDBMS**: SQL Server, MySQL, SQLite, Oracle, Teradata, Sybase, Access
-- **NoSQL**: MongoDB, JSON, RDF (SPARQL, OWL)
+- **NoSQL**: MongoDB, JSON, RDF (SPARQL, OWL), Neo4j, Cypher
 - **Web Frontend**: Flask, JBoss Seam, Hibernate, CSS, JavaScript
 - **Text Markup**: HTML, XML, TeX/LaTeX, Markdown, Wolfram
 - **IDE**: Spyder, PyCharm, Jupyter Notebooks, RStudio, TinnR, Eclipse, JCreator, Visual Studio, SQL Server Integration Services, SAS Data Integration Studio, SAS Enterprise Guide, WinEdt, Notepad++, Shell
