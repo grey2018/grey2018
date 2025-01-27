@@ -52,7 +52,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - **Data Engineering, Big Data and Machine Learning on Google Cloud, Google** via Coursera (5)
 - Containers with Docker, Kubernetes and OpenShift, IBM via Coursera
 - Intro to MongoDB, MongoDB via Coursera
-- Linked Data Engineering, Hasso Plattner Institute via OpenHPI
+- Linked Data Engineering (Semantic Web), Hasso Plattner Institute via OpenHPI
 - Classical Machine Learning for Financial Engineering, New York NYU via edX
 - **Big Data Analytics using Spark, UC San Diego** via edX
 - **Machine Learning with Python, MIT** via edX
