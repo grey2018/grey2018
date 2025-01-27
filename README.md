@@ -65,7 +65,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - SAS Advances, msgGillardon, Munich
 - SAS Risk Dimensions, SAS Institute, Munich
 - SQL Server: Query Basics & Advances, Sarpedon Quality Lab, Berlin
-- Bloomberg: Equity Market Basics, Bloomberg, Frankfurt (Main)
+- Bloomberg Basics and Equity Market Basics, Bloomberg, Frankfurt (Main)
 - Enterprise Resource Planning with SAP, Europa University Viadrina, Frankfurt (Oder)
 &nbsp;
 ## 📖 Publications
@@ -75,7 +75,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 &nbsp;
 ## 👓 Conferences
 - Modeling of Banking Book Items. Non-Maturity Deposits and Fixed-Rate Mortgages, Advanced Trainings, Warsaw, Poland 
-- Pricing Models in Finance, by Robert C. Merton (Harvard University), Goethe University, Frankfurt (Main)
+- Shocks and Asset Prices, by Robert C. Merton (Harvard University), Goethe University, Frankfurt (Main)
 - Nonparametric and Semiparametric Models, Methdos and Application in Finance, by Oliver Linton (London School of Economics), Humboldt University, Berlin
 &nbsp;
 ## 💻 Computer Literacy
