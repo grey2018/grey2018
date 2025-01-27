@@ -59,6 +59,8 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Foundations of Data Science, UC Berkeley via edX (3)
 - Python Data Science, IBM via edX (5)
 - **CS50 Intro to Computer Science, Harvard** via edX
+- Scrum Project Management, GoodHabitz
+- Self-Organization and Time Management, Haufe Akademie, Munich
 - **PMI Project Management, Frankfurt School of Finance & Management**
 - SAS Advances, msgGillardon, Munich
 - SAS Risk Dimensions, SAS Institute, Munich
@@ -88,10 +90,10 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 &nbsp;
 ## 🌍 Languages
 - Ukrainian: fluent
-- German: fluent (C1 certificate)
-- English: fluent (C1 certificate)
-- Polish: fluent (B2 certificate)
-- French: basic (B1 certificate)
+- German: fluent, DSH (C2)
+- English: fluent, ToEFL iBT (C1)
+- Polish: fluent, UNIcert II (B2)
+- French: basic, UNIcert I (B1)
 &nbsp;
 ## 🏗 Projects
 
