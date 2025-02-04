@@ -5,7 +5,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Anomaly Detection in Deposit Data. Data Science / Console Backend. Clustering, Dim-Reduction, Python (scikit-learn, XGBoost, Keras).
 - Statistical Validation of Behavioural GBM Process. Data Analysis / Console Backend. Python (statsmodels, scipy, numpy, pandas).
 - Credit Default Early Warning System with NLP/Text Analytics. Data Science / Model Design. Classification, R (tm, nnet).
-- Behavioural Model for Deposits. Model & Software Dev / Console Backend. R (dplyr, maggritr/pipes, tidyverse, ggplot2).
+- Behavioural Model for Deposits. Model & Software Dev / Console Backend. GBM, Regression, R (dplyr, maggritr/pipes, tidyverse, ggplot2).
 - Travel Manager. Software Dev / Web Fullstack. Python, HTML, SQL, SQLite. [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU).
 - Computation Cores for Rating Models. Software Dev / Web Backend. SAS (DATA steps, macros, SQL, RISK, DIS).
 - Computation Core for Portfolio Risk Model. Software Dev / Desktop Backend. VisualBasic.NET, C#.
