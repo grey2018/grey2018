@@ -2,7 +2,7 @@
 I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of Work Experience in Analytics, Modeling and Coding, passionate about Data Science and Machine Learning.
 &nbsp; 
 ## ⭐ Highlight Projects
-- Anomaly Detection in Deposit Data. Data Science / Console Backend. Clustering, Dim-Reduction, Python (scikit-learn, XGBoost, Keras, matplotlib, seaborn).
+- Anomaly Detection in Deposit Data. Data Science / Console Backend. Clustering, Dim-Reduction, Python (scikit-learn, XGBoost, Keras).
 - Statistical Validation of Behavioural GBM Process. Data Analysis / Console Backend. Python (statsmodels, scipy, numpy, pandas).
 - Behavioural Model for Deposits. Model & Software Dev / Console Backend. R (dplyr, maggritr/pipes, tidyverse, ggplot2).
 - Credit Default Early Warning System with NLP/Text Analytics. Model Design / Console Backend. Classification, R (tm, nnet).
