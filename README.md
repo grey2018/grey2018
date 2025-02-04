@@ -4,7 +4,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 ## ⭐ Highlight Projects
 - Anomaly Detection in Deposit Data. Data Science / Console Backend. Clustering, Dim-Reduction, Python (scikit-learn, XGBoost, Keras).
 - Statistical Validation of Behavioural GBM Process. Data Analysis / Console Backend. Python (statsmodels, scipy, numpy, pandas).
-- Credit Default Early Warning System with NLP/Text Analytics. Data Science / Model Design. Classification, R (tm, nnet).
+- Credit Default Early Warnings with NLP/Text Analytics. Data Science / Model Design. Text Mining, Classification, R (tm, nnet).
 - Behavioural Model for Deposits. Model & Software Dev / Console Backend. GBM, Regression, R (dplyr, maggritr/pipes, tidyverse, ggplot2).
 - Travel Manager. Software Dev / Web Fullstack. Python, HTML, SQL, SQLite. [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU).
 - Computation Cores for Rating Models. Software Dev / Web Backend. SAS (DATA steps, macros, SQL, RISK, DIS).
@@ -121,7 +121,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
 |Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
 |Rating Model for Trade Receivables ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
-|**Default Early Warnings using NLP**|Data Science|Console App|Model Design|R (tm, nnet), API (Twitter, Google News), Forecasting, Classification, Text Sentiment/Analytics|
+|**Default Early Warnings using NLP**|Data Science|Console App|Model Design|R (tm, nnet), API (Twitter, Google News), Text Sentiment/Analytics, Forecasting, Classification|
 |Rating Model for Wind Energy Plants|Software Dev|Web App|Backend Dev|SAS (data, macros, risk), Java, Monte-Carlo Simulation, PD|
 |Rating Model for Purchased Receivables. Customer Matching|Software Dev|Web App|Design, Test, Project Mgmt|Apache Lucene|
 |Simulation Facility|Software Dev|Integration Env|Design, Test, Project Mgmt|SAS Data Integration Studio|
