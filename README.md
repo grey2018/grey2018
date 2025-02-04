@@ -11,7 +11,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Computation Core for Portfolio Risk Model. Software Dev / Desktop Backend. VisualBasic.NET, C#.
 - Pooling Management. Software Dev / Web Fullstack. Java, HTML, SQL, SQL Server.
 - Multivariate CUSUM Charts for Statistical Monitoring of Portfolio Weights. Model and Software Dev / Console Backend. C.
-- Backtesting of Derivative Exposure Simulation. Model and Software Dev / Web Backend. Java, SQL.
+- Statistical Backtesting of Derivative Exposure Simulation. Model and Software Dev / Web Backend. Java, SQL.
 &nbsp;  
 ## 🛠 Work Experience
 - 2018- now: Senior Portfolio Analyst, Liquidity Risk, UniCredit Bank (HVB), Munich
