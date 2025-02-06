@@ -116,6 +116,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Spyder, Clustering, Dim Reduction, ANN|
 |Statistical Validation of Behavioural GBM Process|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Spyder, Geometric Brownian Motion, Time Series Analysis (Stationarity, Normality, Autocorrelation)|
 |Deposit Stress Parameters|Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Spyder, Rollover Rates, LST, EWI|
+|[Review Sentiment Analyzer](https://github.com/grey2018/mit_machine_learning_python/tree/main/prj1_review_sentiment_analyzer)|Data Science|Console App|Backend Dev|Python (numpy, pandas, matplotlib, scikit-learn)|
 |Non-Emergency Complaints in NYC|Data Science|Console App|Backend Dev|Python (numpy, pandas, matplotlib, scikit-learn)|
 |**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
 |Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2), RStudio, Forecasting, Geometric Brownian Motion, Regression, Stable & Core Volume, NSFR, SLR|
