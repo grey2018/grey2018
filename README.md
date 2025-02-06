@@ -5,7 +5,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Anomaly Detection in Deposit Data. Data Science / Console Backend. Clustering, DimReduction, Python (scikit-learn, XGBoost, Keras).
 - Statistical Validation of Behavioural GBM Process. Data Analysis / Console Backend. Python (statsmodels, scipy, numpy, pandas).
 - Credit Default Early Warnings with NLP/Text Analytics. Data Science / Model Design. Text Mining, Classification, R (tm, nnet).
-- Behavioural Model for Deposits. Model & Software Dev / Console Backend. GBM, Regression, R (dplyr, maggritr/pipes, tidyverse, ggplot2).
+- Behavioural Model for Deposits. Model & Software Dev / Console Backend. GBM, Regression, R (dplyr, maggritr, tidyverse, ggplot2).
 - Travel Manager. Software Dev / Web Fullstack. Python, HTML, SQL, SQLite. [Demo on YouTube](https://www.youtube.com/watch?v=2uNq-8x65oU).
 - Computation Cores for Rating Models. Software Dev / Web Backend. SAS (DATA steps, macros, SQL, RISK, DIS).
 - Computation Core for Portfolio Risk Model. Software Dev / Desktop Backend. VisualBasic.NET, C#.
@@ -29,7 +29,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - 1998: Intern, Research & Development, Institute of Refrigerating Appliance, Donetsk, UA
 &nbsp;  
 ## 🎓 Education
-- 2003-2006: Diploma, Business Administration (Finance, Informatics, Statistics), Grade 1.5 (very good), EU Viadrina, Frankfurt (Oder), DE
+- 2003-2006: Diploma, Business Admin (Finance, Informatics, Statistics), Grade 1.5 (very good), EU Viadrina, Frankfurt (Oder), DE
 - 1999-2002: Bachelor, Corporate Management, State University of Management, Donetsk, UA
 - 1995-1997: Junior Specialist, Automation of Technologies, Polytechnic School, Donetsk, UA
 &nbsp;
