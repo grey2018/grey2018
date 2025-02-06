@@ -116,9 +116,12 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Spyder, Clustering, Dim Reduction, ANN|
 |Statistical Validation of Behavioural GBM Process|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Spyder, Geometric Brownian Motion, Time Series Analysis (Stationarity, Normality, Autocorrelation)|
 |Deposit Stress Parameters|Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Spyder, Rollover Rates, LST, EWI|
+|[Stock PCA and Classification](https://github.com/grey2018/sandiego_bigdata_analytics_spark/tree/main/prj9_stock_pca_and_class)|Data Science|Console App|Backend Dev|Python (numpy, pandas, pyspark, xgboost)|
+|[Collaborative Filtering with GMM for Netflix](https://github.com/grey2018/mit_machine_learning_python/tree/main/prj4_gmm_collaborative_filtering_netflix)|Data Science|Console App|Backend Dev|Python (numpy, pandas, scikit-learn)|
+|[Digit Recognition](https://github.com/grey2018/mit_machine_learning_python/tree/main/prj3_digit_recognition_2)|Data Science|Console App|Backend Dev|Python (numpy, pandas, pytorch)|
 |[Review Sentiment Analyzer](https://github.com/grey2018/mit_machine_learning_python/tree/main/prj1_review_sentiment_analyzer)|Data Science|Console App|Backend Dev|Python (numpy, pandas, matplotlib, scikit-learn)|
 |Non-Emergency Complaints in NYC|Data Science|Console App|Backend Dev|Python (numpy, pandas, matplotlib, scikit-learn)|
-|**Travel Manager**|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
+|[**Travel Manager**](https://github.com/grey2018/travel_manager)|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
 |Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2), RStudio, Forecasting, Geometric Brownian Motion, Regression, Stable & Core Volume, NSFR, SLR|
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
 |Rating Model for Loans & Leases ABS|Software Dev|Web App|Backend Dev|SAS (data, macros), PD, RWA|
