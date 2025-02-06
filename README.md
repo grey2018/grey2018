@@ -2,7 +2,7 @@
 I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of Work Experience in Analytics, Modeling and Coding, passionate about Data Science and Machine Learning.
 &nbsp; 
 ## ⭐ Highlight Projects
-- Anomaly Detection in Deposit Data. Data Science / Console Backend. Clustering, Dim-Reduction, Python (scikit-learn, XGBoost, Keras).
+- Anomaly Detection in Deposit Data. Data Science / Console Backend. Clustering, DimReduction, Python (scikit-learn, XGBoost, Keras).
 - Statistical Validation of Behavioural GBM Process. Data Analysis / Console Backend. Python (statsmodels, scipy, numpy, pandas).
 - Credit Default Early Warnings with NLP/Text Analytics. Data Science / Model Design. Text Mining, Classification, R (tm, nnet).
 - Behavioural Model for Deposits. Model & Software Dev / Console Backend. GBM, Regression, R (dplyr, maggritr/pipes, tidyverse, ggplot2).
@@ -14,9 +14,9 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Statistical Backtesting of Derivative Exposure Simulation. Model and Software Dev / Web Backend. Java, SQL.
 &nbsp;  
 ## 🛠 Work Experience
-- 2018- now: Senior Portfolio Analyst, Liquidity Risk, UniCredit Bank (HVB), Munich
-- 2011-2018: Senior Risk Modeller, Rating Technology, UniCredit Bank (HVB), Munich
-- 2009-2011: Risk Analyst, Portfolio Risk Methodology, Sparkassen Rating & Risk Systems, Berlin
+- 2018- now: Senior Analyst, Liquidity Risk, UniCredit Bank (HVB), Munich
+- 2011-2018: Senior Modeller, Rating Technology, UniCredit Bank (HVB), Munich
+- 2009-2011: Analyst, Portfolio Risk Methodology, Sparkassen Rating & Risk Systems, Berlin
 - 2006-2009: PhD Researcher, Chair of Quantitative Methods, esp. Statistics, European University Viadrina, Frankfurt (Oder)
 &nbsp;
 ## 🔨 Internships
@@ -42,7 +42,8 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Junior Specialist Degree with Distinction 
 &nbsp;
 ## 🧾 Professional Development
-- Introduction to NoSQL Data Bases with MongoDB and Apache Cassandra, IBM via Coursera
+- Foundational Mathematics for AI, Johns Hopkins University via Coursera
+- Introduction to NoSQL Data Bases with MongoDB and Cassandra, IBM via Coursera
 - Graph Analytics for Big Data Using Neo4j and GraphX, UC San Diego via Coursera
 - Tableau Business Intelligence Analyst, Tableau via Coursera (8)
 - Snowflake for Devs, Data Scientists and Data Engineers, Snowflake via Coursera
