@@ -122,7 +122,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |[Collaborative Filtering with GMM for Netflix](https://github.com/grey2018/mit_machine_learning_python/tree/main/prj4_gmm_collaborative_filtering_netflix)|Data Science|Console App|Backend Dev|Python (numpy, pandas, scikit-learn)|
 |[Digit Recognition](https://github.com/grey2018/mit_machine_learning_python/tree/main/prj3_digit_recognition_2)|Data Science|Console App|Backend Dev|Python (numpy, pandas, pytorch)|
 |[Review Sentiment Analyzer](https://github.com/grey2018/mit_machine_learning_python/tree/main/prj1_review_sentiment_analyzer)|Data Science|Console App|Backend Dev|Python (numpy, pandas, matplotlib, scikit-learn)|
-|Non-Emergency Complaints in NYC|Data Science|Console App|Backend Dev|Python (numpy, pandas, matplotlib, scikit-learn)|
+|[Non-Emergency Complaints in NYC](https://github.com/grey2018/ibm_data_science_python)|Data Science|Console App|Backend Dev|Python (numpy, pandas, matplotlib, scikit-learn)|
 |[**Travel Manager**](https://github.com/grey2018/travel_manager)|Software Dev|Web App|Fullstack Dev|Python, HTML, Jinja, CSS, Bootstrap, JavaScript, jQuery, SQL, SQLite|
 |Deposit Behav Model|Model Dev, Software Dev|Console App|Backend Dev|R (dplyr, tidyverse, maggritr pipes, ggplot2), RStudio, Forecasting, Geometric Brownian Motion, Regression, Stable & Core Volume, NSFR, SLR|
 |Risk Aggregation Report|Software DevOps|Desktop App|Backend Ops|VBA, Excel|
