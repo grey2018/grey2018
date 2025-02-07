@@ -39,7 +39,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Merit Scholarship by EKO Stahl
 - European Study Scholarship by DAAD (German Academic Exchange Service)
 - Bachelor Degree with Distinction
-- Junior Specialist Degree with Distinction 
+- Junior Bachelor Degree with Distinction 
 &nbsp;
 ## 🧾 Professional Development
 - Foundational Mathematics for AI, Johns Hopkins University via Coursera
