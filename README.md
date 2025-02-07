@@ -31,7 +31,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 ## 🎓 Education
 - 2003-2006: Master (equiv.), Business Admin (Finance, Informatics, Statistics), Grade 1.5 (very good), EU Viadrina, Frankfurt (Oder), DE
 - 1999-2002: Bachelor, Corporate Management, State University of Management, Donetsk, UA
-- 1995-1997: Junior Bachelor (equiv.), Automation of Technologies, Polytechnic School, Donetsk, UA
+- 1995-1997: Junior Bachelor (equiv.), Automation Technology, Polytechnic School, Donetsk, UA
 &nbsp;
 ## 🏆 Awards
 - PhD Research Scholarship by Deutsche Bank Foundation
