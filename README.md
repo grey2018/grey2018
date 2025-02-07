@@ -116,6 +116,8 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 |**Anomaly Detection in Deposit Data**|Data Science|Console App|Backend Dev|Python (scikit-learn, xgboost, Keras, matplotlib, seaborn), Spyder, Clustering, Dim Reduction, ANN|
 |Statistical Validation of Behavioural GBM Process|Data Analysis|Console App|Backend Dev|Python (statsmodels, scipy), Spyder, Geometric Brownian Motion, Time Series Analysis (Stationarity, Normality, Autocorrelation)|
 |Deposit Stress Parameters|Software Dev|Console App|Backend Dev|Python (pandas, numpy, seaborn), Spyder, Rollover Rates, LST, EWI|
+|[Ship Detection on Satellite Images](https://github.com/grey2018/newyork_mlearning_finengineering)|Data Science|Console App|Backend Dev|Python (numpy, pandas, scikit-learn)|
+|[Hedging for Stocks](https://github.com/grey2018/newyork_mlearning_finengineering)|Data Science|Console App|Backend Dev|Python (numpy, pandas, scikit-learn)|
 |[Stock PCA and Classification](https://github.com/grey2018/sandiego_bigdata_analytics_spark/tree/main/prj9_stock_pca_and_class)|Data Science|Console App|Backend Dev|Python (numpy, pandas, pyspark, xgboost)|
 |[Collaborative Filtering with GMM for Netflix](https://github.com/grey2018/mit_machine_learning_python/tree/main/prj4_gmm_collaborative_filtering_netflix)|Data Science|Console App|Backend Dev|Python (numpy, pandas, scikit-learn)|
 |[Digit Recognition](https://github.com/grey2018/mit_machine_learning_python/tree/main/prj3_digit_recognition_2)|Data Science|Console App|Backend Dev|Python (numpy, pandas, pytorch)|
