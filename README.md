@@ -75,9 +75,9 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Enterprise Resource Planning with SAP, Europa University Viadrina, Frankfurt (Oder)
 &nbsp;
 ## 📖 Publications
-- [CUSUM Control Charts for Monitoring Optimal Portfolio Weights](https://www.sciencedirect.com/science/article/abs/pii/S0167947311001708). Golosnoy, Ragulin, Schmid. Computational Statistics and Data Analysis.
-- [On the Application of Statistical Process Control in Finance](https://link.springer.com/chapter/10.1007/978-3-7908-2380-6_8). Golosnoy, Okhrin, Ragulin, Schmid. Frontiers in Statistical Process Control
-- [Multivariate CUSUM Chart: Properties and Enhancements](https://link.springer.com/article/10.1007/s10182-009-0107-4). Golosnoy, Ragulin, Schmid. AStA Advances in Statistical Analysis
+- CUSUM Control Charts for Monitoring Optimal Portfolio Weights. Golosnoy, Ragulin, Schmid. [Computational Statistics and Data Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0167947311001708).
+- On the Application of Statistical Process Control in Finance. Golosnoy, Okhrin, Ragulin, Schmid. [Frontiers in Statistical Process Control](https://link.springer.com/chapter/10.1007/978-3-7908-2380-6_8)
+- Multivariate CUSUM Chart: Properties and Enhancements. Golosnoy, Ragulin, Schmid. [AStA Advances in Statistical Analysis](https://link.springer.com/article/10.1007/s10182-009-0107-4)
 &nbsp;
 ## 👓 Conferences
 - Modeling of Banking Book Items. Non-Maturity Deposits and Fixed-Rate Mortgages, Advanced Trainings, Warsaw, Poland 
