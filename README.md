@@ -42,29 +42,29 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Junior Bachelor Degree with Distinction 
 &nbsp;
 ## 🧾 Professional Development
-- Mathematics for Machine Learning, Imperial College London via Coursera (3). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/0KYUAJ1SKV86)
+- Mathematics for Machine Learning, Imperial College London via Coursera (3). [spec cert](https://www.coursera.org/account/accomplishments/specialization/certificate/0KYUAJ1SKV86)
 - Foundational Mathematics for AI, Johns Hopkins University via Coursera. [cert](https://coursera.org/share/d4b5576fdedaa2e4ac34bf89f9ba98b5)
 - Introduction to NoSQL Data Bases with MongoDB and Cassandra, IBM via Coursera. [cert](https://www.coursera.org/account/accomplishments/certificate/U0ENGER8LN6X)
 - Graph Analytics for Big Data Using Neo4j and GraphX, UC San Diego via Coursera. [cert](https://www.coursera.org/account/accomplishments/certificate/YYOYOYW003AN)
-- Tableau Business Intelligence Analyst, Tableau via Coursera (8). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/PXB72S39M210)
+- Tableau Business Intelligence Analyst, Tableau via Coursera (8). [spec cert](https://www.coursera.org/account/accomplishments/specialization/certificate/PXB72S39M210)
 - Snowflake for Devs, Data Scientists and Data Engineers, Snowflake via Coursera. [cert](https://www.coursera.org/account/accomplishments/certificate/YJZ4U0NJE203)
-- Power BI Data Analyst, Microsoft via Coursera (8). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/R2CFRUIGFJZM)
-- **Azure Data Science Associate, Microsoft** via Coursera (5). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/JCUJO0DTIDEZ)
-- Azure Artificial Intelligence Fundamentals, Microsoft via Coursera (5). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/WJMJ62OL8VKC)
-- Azure Data Fundamentals, Microsoft via Coursera (5). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/36879EPNSZZC)
-- Azure Cloud Fundamentals, Microsoft via Coursera (4). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/LMJF9PFDNU2Z)
-- AWS Cloud Fundamentals, AWS via Coursera (3). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/OJNA3M3RFQ91)
-- **Data Engineering, Big Data and Machine Learning on Google Cloud, Google** via Coursera (5). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/I5ZX2B8FKVT7)
+- Power BI Data Analyst, Microsoft via Coursera (8). [spec cert](https://www.coursera.org/account/accomplishments/specialization/certificate/R2CFRUIGFJZM)
+- **Azure Data Science Associate, Microsoft** via Coursera (5). [spec cert](https://www.coursera.org/account/accomplishments/specialization/certificate/JCUJO0DTIDEZ)
+- Azure Artificial Intelligence Fundamentals, Microsoft via Coursera (5). [spec cert](https://www.coursera.org/account/accomplishments/specialization/certificate/WJMJ62OL8VKC)
+- Azure Data Fundamentals, Microsoft via Coursera (5). [spec cert](https://www.coursera.org/account/accomplishments/specialization/certificate/36879EPNSZZC)
+- Azure Cloud Fundamentals, Microsoft via Coursera (4). [spec cert](https://www.coursera.org/account/accomplishments/specialization/certificate/LMJF9PFDNU2Z)
+- AWS Cloud Fundamentals, AWS via Coursera (3). [spec cert](https://www.coursera.org/account/accomplishments/specialization/certificate/OJNA3M3RFQ91)
+- **Data Engineering, Big Data and Machine Learning on Google Cloud, Google** via Coursera (5). [spec cert](https://www.coursera.org/account/accomplishments/specialization/certificate/I5ZX2B8FKVT7)
 - Containers with Docker, Kubernetes and OpenShift, IBM via Coursera. [cert](https://www.coursera.org/account/accomplishments/certificate/DGZVO8MWBJYW)
 - Intro to MongoDB, MongoDB via Coursera. [cert](https://www.coursera.org/account/accomplishments/certificate/80FXDRAVE3KG)
 - Linked Data Engineering (Semantic Web), Hasso Plattner Institute via OpenHPI
-- Classical Machine Learning for Financial Engineering, New York NYU via edX
+- Classical Machine Learning for Financial Engineering, New York NYU via edX. [cert](https://courses.edx.org/certificates/a41f15eca59b44faa6d59213af31fdbd)
 - Scalable Machine Learning on Big Data using Apache Spark, IBM via Coursera. [cert](https://www.coursera.org/account/accomplishments/certificate/5UARPQDX6RJZ)
-- **Big Data Analytics using Spark, UC San Diego** via edX
-- **Machine Learning with Python, MIT** via edX
-- Foundations of Data Science, UC Berkeley via edX (3)
-- Python Data Science, IBM via edX (5)
-- **CS50 Intro to Computer Science, Harvard** via edX
+- **Big Data Analytics using Spark, UC San Diego** via edX. [cert](https://courses.edx.org/certificates/2b01e2bc151f41a4bad049292783acb9)
+- **Machine Learning with Python, MIT** via edX. [cert](https://courses.edx.org/certificates/0be73ab2b90b4fac984be7db5e3490c2)
+- Foundations of Data Science, UC Berkeley via edX (3). [spec cert](https://credentials.edx.org/credentials/c78db8a951664d0392517ba10183eea0/)
+- Python Data Science, IBM via edX (5). [spec cert](https://courses.edx.org/certificates/8c8103e2af5c4344a38881e5bd01c12e)
+- **CS50 Intro to Computer Science, Harvard** via edX. [cert](https://certificates.cs50.io/b626d50c-8e68-454b-844b-4de93aec16bf.pdf)
 - Scrum Project Management, GoodHabitz
 - Self-Organization and Time Management, Haufe Akademie, Munich
 - **PMI Project Management, Frankfurt School of Finance & Management**
