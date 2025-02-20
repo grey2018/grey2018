@@ -42,24 +42,24 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Junior Bachelor Degree with Distinction 
 &nbsp;
 ## 🧾 Professional Development
-- Mathematics for Machine Learning, Imperial College London via Coursera (3) [check](https://www.coursera.org/account/accomplishments/specialization/certificate/0KYUAJ1SKV86)
-- Foundational Mathematics for AI, Johns Hopkins University via Coursera
-- Introduction to NoSQL Data Bases with MongoDB and Cassandra, IBM via Coursera
-- Graph Analytics for Big Data Using Neo4j and GraphX, UC San Diego via Coursera
-- Tableau Business Intelligence Analyst, Tableau via Coursera (8)
-- Snowflake for Devs, Data Scientists and Data Engineers, Snowflake via Coursera
-- Power BI Data Analyst, Microsoft via Coursera (8)
-- **Azure Data Science Associate, Microsoft** via Coursera (5)
-- Azure Artificial Intelligence Fundamentals, Microsoft via Coursera (5)
-- Azure Data Fundamentals, Microsoft via Coursera (5)
-- Azure Cloud Fundamentals, Microsoft via Coursera (4)
-- AWS Cloud Fundamentals, AWS via Coursera (3)
-- **Data Engineering, Big Data and Machine Learning on Google Cloud, Google** via Coursera (5)
-- Containers with Docker, Kubernetes and OpenShift, IBM via Coursera
-- Intro to MongoDB, MongoDB via Coursera
+- Mathematics for Machine Learning, Imperial College London via Coursera (3). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/0KYUAJ1SKV86)
+- Foundational Mathematics for AI, Johns Hopkins University via Coursera. [cert](https://coursera.org/share/d4b5576fdedaa2e4ac34bf89f9ba98b5)
+- Introduction to NoSQL Data Bases with MongoDB and Cassandra, IBM via Coursera. [cert](https://www.coursera.org/account/accomplishments/certificate/U0ENGER8LN6X)
+- Graph Analytics for Big Data Using Neo4j and GraphX, UC San Diego via Coursera. [cert](https://www.coursera.org/account/accomplishments/certificate/YYOYOYW003AN)
+- Tableau Business Intelligence Analyst, Tableau via Coursera (8). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/PXB72S39M210)
+- Snowflake for Devs, Data Scientists and Data Engineers, Snowflake via Coursera. [cert](https://www.coursera.org/account/accomplishments/certificate/YJZ4U0NJE203)
+- Power BI Data Analyst, Microsoft via Coursera (8). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/R2CFRUIGFJZM)
+- **Azure Data Science Associate, Microsoft** via Coursera (5). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/JCUJO0DTIDEZ)
+- Azure Artificial Intelligence Fundamentals, Microsoft via Coursera (5). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/WJMJ62OL8VKC)
+- Azure Data Fundamentals, Microsoft via Coursera (5). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/36879EPNSZZC)
+- Azure Cloud Fundamentals, Microsoft via Coursera (4). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/LMJF9PFDNU2Z)
+- AWS Cloud Fundamentals, AWS via Coursera (3). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/OJNA3M3RFQ91)
+- **Data Engineering, Big Data and Machine Learning on Google Cloud, Google** via Coursera (5). [cert](https://www.coursera.org/account/accomplishments/specialization/certificate/I5ZX2B8FKVT7)
+- Containers with Docker, Kubernetes and OpenShift, IBM via Coursera. [cert](https://www.coursera.org/account/accomplishments/certificate/DGZVO8MWBJYW)
+- Intro to MongoDB, MongoDB via Coursera. [cert](https://www.coursera.org/account/accomplishments/certificate/80FXDRAVE3KG)
 - Linked Data Engineering (Semantic Web), Hasso Plattner Institute via OpenHPI
 - Classical Machine Learning for Financial Engineering, New York NYU via edX
-- Scalable Machine Learning on Big Data using Apache Spark, IBM via Coursera
+- Scalable Machine Learning on Big Data using Apache Spark, IBM via Coursera. [cert](https://www.coursera.org/account/accomplishments/certificate/5UARPQDX6RJZ)
 - **Big Data Analytics using Spark, UC San Diego** via edX
 - **Machine Learning with Python, MIT** via edX
 - Foundations of Data Science, UC Berkeley via edX (3)
