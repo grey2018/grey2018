@@ -42,7 +42,7 @@ I am a Data & Risk Specialist with a PhD Degree in Statistics and 15+ Years of W
 - Junior Bachelor Degree with Distinction 
 &nbsp;
 ## 🧾 Professional Development
-- Mathematics for Machine Learning, Imperial College London via Coursera (3) [check](https://coursera.org/share/ddb7b765121cb1563697a4ca3c15c5f2)
+- Mathematics for Machine Learning, Imperial College London via Coursera (3) [check](https://www.coursera.org/account/accomplishments/specialization/certificate/0KYUAJ1SKV86)
 - Foundational Mathematics for AI, Johns Hopkins University via Coursera
 - Introduction to NoSQL Data Bases with MongoDB and Cassandra, IBM via Coursera
 - Graph Analytics for Big Data Using Neo4j and GraphX, UC San Diego via Coursera
